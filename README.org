@@ -1,0 +1,377 @@
+#+TITLE: Business Plan for Local Currency Deployment
+#+AUTHOR: Perry Kundert
+#+EMAIL: perry@dominionrnd.com
+#+DATE: 2024-04-16
+#+DRAFT: true
+#+EXPORT_FILE_NAME: README.pdf
+#+STARTUP: org-startup-with-inline-images inlineimages
+#+OPTIONS: ^:nil # Disable sub/superscripting with bare _; _{...} still works
+#+OPTIONS: toc:nil
+
+#+LATEX_HEADER: \usepackage[margin=1.0in]{geometry}
+#+LATEX_HEADER: \usepackage{draftwatermark}
+
+#+BEGIN_ABSTRACT
+Money created through debt and centrally-managed through interest rates has proven to be
+problematic.  The benefits the ability to create and issue large amounts of money to fund projects
+are overwhelmed by the caustic effects of inflation, and the exponential growth of interest
+obligations.
+
+Issuing fungible and trustworthy asset-backed money based on individual or collective wealth has
+until now been out of reach.  The technical hurdles, and the opposition of entrenched political and
+banking incumbents have been insurmountable.
+
+The time has now arrived where we are able to surmount these obstacles:
+- Technology to implement reliable and performant decentralized monetary systems is here.
+- The public will to accept decentralized value-stable money is rising.
+- The government and bank opposition to sound money can be legally and technically overcome.
+#+END_ABSTRACT
+
+#+TOC: headlines 3
+
+* Executive Summary
+
+  The widespread use of alternative sound money hinges on solving three problems:
+
+  1. Paying and accepting sound money in realistic, non-ideal circumstances.
+  2. Creating units of sound money dynamically, without central authority.
+  3. Improving the definition and implementation of sound money over time.
+
+* What is "Sound Money"
+
+  #+BEGIN_QUOTE
+  "The gold standard makes the determination of money's purchasing power independent of the changing
+  ambitions and doctrines of political parties and pressure groups. This is not a defect of the gold
+  standard; it is its main excellence." -- Ludwig von Mises
+  #+END_QUOTE
+
+  Reliable convertability of money to something of value -- resistance to debasement -- is a major
+  (often subconscious) requirement users have of Sound Money.
+
+  Some methods result in wealth being exchanged for units of money:
+
+  1. Directly using the valuable commodity as money (eg. gold coinage, barter)
+  2. Trusting some central authority to issue/redeem money for some valuable commodity (eg. gold-backed money)
+  3. Exchanging wealth for some other money with certain desirable properties (eg. Bitcoin, Fiat currency)
+
+  These are all analogous to "selling" wealth for money in Fiat banking.  The wealth owner loses
+  access to the wealth, gaining only the money (or what it purchased).  This is typically the only
+  form of money ownership available to the general population.
+
+  Alternatively, the creation and attested ownership of wealth can produce money; the owner retains
+  use of the wealth, and units of money are created (which must be redeemed, in order to sell or
+  transfer the attested wealth):
+
+  1. Using money representing confirmed ownership of wealth (eg. securitization, tokenization)
+  2. Creation of credit balances of money in Mutual-Credit systems.
+
+  These are mechanically very similar to "borrowing" in Fiat banking terms; a lien is established on
+  the underlying wealth, various guarantees are assured (insurance, proof of title, etc.), and the
+  credit balance is created.  The balance created must be returned if the wealth is sold, or
+  destroyed (triggering insurance).  This type of money ownership is primarily reserved for the
+  elites, except at very onerous terms and high interest rates (eg. Mortgages, demand loans).
+
+  Most oddly; the issuers of these loans (commercial banks) create these deposits out of thin air;
+  they have no collateral other than that provided by the borrower.  In return for this amazing
+  government-mandated monopoly, they can charge interest for creating these new units of money.
+
+** Sound Money vs. Debt Money
+
+   All of these forms of Sound Money have a couple of significant deficiencies vs. debt-created Fiat money:
+
+   They are typically not /fungible/; "tokenized" chickens have a different value than some "mutual
+   credit" units or "silver" coins.
+
+   As a consequence, accumulation of large pools of money is very challenging.  Any large pool
+   consists of various types of money, with a dynamic value vs. each other, and also vs. the
+   acquisition target of the pool.
+
+   Debt-created Fiat money, on the other hand:
+   1. Is fungible; all assets are converted into money, which can be pooled interchangeably.
+   2. Is easily created; bonds can be issued and sold in large markets to raise funds.
+
+   While a Fiat money supply retains its convertability to wealth, this works well.  But typically,
+   such convertability ceases as soon as the politicians controlling the treasury and central bank
+   can manage it.
+
+   As a final result, the Cantillon Effect produces a fountain of unbacked money the flows through
+   the hands of those closest to the treasury and central bank, allowing them to purchase wealth
+   with current dollars, while the ultimate sellers end up with debased dollars in exchange.
+
+** Competitive Sound Money
+
+   All of these forms of money creation will continue to be available.
+
+   We propose making the creation of Sound Money available to the general public, through the
+   attested ownership of wealth, without interest -- completely out of the control of central
+   planners.
+
+   The public can choose to take their collateral wealth and sell, convert or lend it to create
+   traditional forms of money, if they so choose.
+
+   But, by making it possible for the general public to create balances of value-stable wealth-backed
+   money on demand without interest (through the attested ownership of wealth and assurance of
+   guarantees), it is likely that they will quickly convert any available wealth to sound money, and
+   pay down their interest-bearing debt.
+
+* Proposed Transition
+
+** Establish Non-Fiat Payment Options
+
+   Immediately prepare and begin to roll out:
+
+   1. Cryptocurrency based payment rails for both vendors and and buyers.
+   2. Recommend ongoing pricing in Gold & silver coin.
+
+   All non-Fiat savings can be hedged against conversion loses in the traditional Fiat futures or
+   options markets, if necessary to protect future Fiat denominated obligations.
+
+*** Crypto Wallet Setup, Security & Reliability
+   
+*** Crypto L2 Payments
+
+**** Bitcoin "Lightning"
+
+**** Ethereum Roll-Ups
+
+*** Precious Metals
+
+*** Barter
+
+** Develop Mutual Credit Community Based Money
+
+   We propose developing a Holochain-based framework for deploying community-based Money.  Credit balances will  be created
+   directly through the community's attestation of wealth (proof of traditional valuation, insurance and liens).
+
+*** Insurance
+
+   The insurance required to assure the integrity of the community money may be provided by external
+   insurers, or may be provided by the money's authoring community for a fee.  It should reflect the
+   actuarial risk of the assets (a car on the road vs. silver in a bank safe deposit box), the net
+   balance of the account (proportion of the asset value being insured), and the risk of the owner
+   (historically how likely is such an owner to default, defraud, etc.).
+
+   These estimation techniques are widely known in the risk community, and should be adjusted from
+   time to time to ensure stability of the insurance fund.
+
+   The triggering of payouts from the fund should be prompt, to maintain the net zero balance of the
+   mutual credit currency.  They may be automatic (eg. triggered after a certain threshold and/or
+   time period of negative balance), or manually triggered, as desired by the community money's
+   organizers.  However, valid mutual-credit operations in process must remain valid, so long as
+   they were entered into before the account fell into arrears.
+
+*** Convertability
+
+   Conversion to other Cryptocurrencies and to/from Fiat is accomplished through integration into the
+   existing Ethereum ERC-20 DeFi exchanges platforms (eg. Uniswap).
+
+   A centralized community exchange controls conversion between Mutual Credit units and ERC-20 units
+   on a one-to-one basis.  This would be run by the same community organization in charge of the
+   attestation of wealth underpinning the community mutual-credit currency.
+
+*** Value Stability
+
+    If desired, the definition of the community currency can be defined to be value-stable in terms
+    of some reference basket of wealth.
+
+    When wealth is pledged to create a credit balance, the process is:
+
+    1. Estimate the value of the wealth in its primary market (eg. USD$)
+    2. Estimate its assets' uncertainty function over time (eg. reduced value since attestation).
+    3. The community responsible attests to the wealth, and the presence of necessary insurances.
+    4. Apply the money's current credit multiplier to compute the credit balance, reduced by the
+       uncertainty function, regularly (eg. daily or hourly) on all credit balances.
+
+    A closed-loop control function (such as a PID loop) measures and corrects money unit/basket value:
+
+    1. The current value of the proposed wealth basket (eg. in USD$/basket, in their markets)
+    2. The current value of the community money (eg. in USDC/unit, on DeFi exchanges)
+    3. The control function computes the new money credit multiplier due to in/deflation
+    4. All credit balances are adjusted due to the new credit multiplier
+    5. Any accounts with negative credit balances must attest more wealth, or purchase money on the market to restore net positive balance.
+    6. Insurance contracts are executed to make good any account persistently in arrears, using traditional means to recoup losses.
+
+* Financial Projections
+
+  We propose an aggressive R&D plan over a 1 year period, resulting in several prototypes followed
+  by an operational deployment of a Holochain-based community money system.
+
+** 1st Year: $1,000,000 Cost
+
+   Over the first year, R&D and community communications and collaboration are costs, with no income
+   from system operations to offset them.
+
+*** Initial R&D: 6 Months
+
+    I foresee the first 6 months of the year dedicated to:
+
+    1. Designing and testing currently available near-term systems and solutions such as Lightning Network
+    2. Producing PR and travelling extensively to communicate the long-term plan, and advise on near-term solutions.
+    3. Producing 2-4 prototypes of the community money system, with increasing functionality
+    4. Designing an integration with traditional insurers to provide re-insurance
+
+*** Operational Deployment: 6 Months
+
+    Once an operational mutual-credit community money system is accepted, and the community money
+    ERC-20 exchange is operational, initial deployment can begin.
+
+    A small set of vendors with some large willing clients is chosen, to invest a subset of their
+    trade through the community money system.  Instead of settling in cash, the clients either
+    create community money (through attestation of wealth) or purchase it using the Fiat USDC to
+    ERC-20 token DeFi, then exchange for mutual credit units via the community exchange.
+
+    Then, they settle client to vendor transactions using community money instead of Fiat.
+
+    Finally, the vendor cashes out community money via the community money to ERC-20 exchange, and
+    then the ERC-20 DeFi pool to receive USDC, when can be converted and deposited to Fiat accounts
+    via any Cryptocurrency exchange.
+
+    Alternatively, the vendor can purchase wealth using community money payments to other vendor(s).
+    Then, by attesting the newly purchased wealth, they can create new community money (interest
+    free), and cash that out, as described above.
+
+*** Technical Team Lead: $200,000
+
+*** Holochain Full-Stack R&D: $200,000
+
+*** Monetary System R&D: $200,000
+
+*** Community Interface & Product Owner: $150,000
+
+*** Social Media, Communications & PR: $100,000
+
+*** Hardware, Software: $50,000
+
+*** Travel, Misc. Expenses: $100,000
+
+** 2nd Year: Neutral
+
+   Wider community uptake results in insurance fee revenue collection filling the loss buffer, and
+   sufficient to pay for maintenance and further R&D of the operating community money system.
+
+** 3rd Year: Profitable
+
+   Fees on wealth attestation insurance begin to stabilize, and are automated using PID control to
+   yield a revenue stream to support the ongoing operations of the community money system, while
+   maintaining a buffer against adverse insurable events (eg. natural disasters)
+
+  #+LATEX: {\scriptsize
+  #+BEGIN_SRC python :session :exports results :results value file :var f="images/revenue-projection.png"
+
+    import matplotlib.pyplot as plt
+    from matplotlib.ticker import ScalarFormatter
+
+    plt.rcParams["figure.figsize"]= (6,4)
+    plt.rcParams["font.size"]  = 6
+
+    import numpy as np
+    import sys
+    from scipy.optimize import curve_fit
+
+    # Hypothetical data
+    years			= np.array([0, 1, 2, 3])
+    months			= np.array(list(i / 12 for i in range( (years[-1]+1) * 12 )))
+
+    client_pax			= 10
+    client_fee			= 15
+
+    clients			= np.array([1, 10, 100, 1000])
+
+    # Expenses
+    employees			= np.array([1,   2,   3,    5])
+    research			= np.array([1,   2,   1,    1])
+    space			= np.array([0, 2e3, 3e3,  5e3])  # space for R&D, servers
+
+    emp_monthly			=  75000 / 12		# $/mo
+    rnd_monthly			= 150000 / 12		# $/mo
+    sft_monthly			= 5			# $/sq.ft/mo
+    cli_monthly			= 1			# costs / client / month
+
+    # Compute the est. monthly clients from the annual targets.  This will be a exponential (not linear)
+    # estimation from annual data.
+    def func( x, a, b, c ):
+	return a * np.exp( -b * x ) + c
+
+    popt, pcov			= curve_fit( func, years, clients )
+    print( f"popt: {popt}, pcov: {pcov}" )
+
+    clients_monthly		= np.array(list(map(int, func(months, *popt))))
+    print( f"monthly clients: {clients_monthly}" )
+
+    revenue_monthly		= (client_pax * client_fee) * clients_monthly
+    print( f"monthly revenue: {revenue_monthly}" )
+
+    def exp_monthly(y):
+	y			= int( y )   # eg. 1.1 --> 1
+	return (
+	    employees[y] * emp_monthly
+	    + research[y] * rnd_monthly
+	    + space[y] * sft_monthly
+	    + int(func(y, *popt)) * cli_monthly
+	)
+
+    expense_monthly		= np.array(list(map( exp_monthly, months )))
+
+    print( f"monthly expense: {expense_monthly}" )
+
+    scalar_formatter		= ScalarFormatter()
+    scalar_formatter.set_scientific(False)
+
+    fig, (ax1, ax2, ax3)	= plt.subplots( 3, sharex=True, figsize=(10, 8) )
+    ax1.grid( True )
+    ax1.set_title('Client Revenue/Expense Growth Over 3 Years')
+    ax1.set_xlabel( "Year" )
+    ax1.set_ylabel( "Clients" )
+    ax1.set_yscale( 'log' )
+    ax1.yaxis.set_major_formatter(scalar_formatter)
+
+    ax2.grid( True )
+    ax2.set_xlabel( "Year" )
+    ax2.set_ylabel( "$/mo" )
+    ax2.set_yscale( 'log' )
+    ax2.yaxis.set_major_formatter(scalar_formatter)
+
+    ax3.grid( True )
+    ax3.set_xlabel( "Year" )
+    ax3.set_ylabel( "$" )
+    ax3.yaxis.set_major_formatter(scalar_formatter)
+
+    ax1.plot( months, clients_monthly, marker='x', label="Clients" )
+    ax1.legend()
+
+    ax2.plot( months, revenue_monthly, "g-", label="Revenue/mo" )
+    ax2.plot( months, expense_monthly, "r-", label="Expenses" )
+    ax2.legend()
+
+    # Compute the net balance at the end of each month.  This will be the sum of the revenue - expense
+
+    balance_monthly		= []
+    for r,e in zip( revenue_monthly, expense_monthly ):
+	    balance_monthly.append(
+		(balance_monthly[-1] if balance_monthly else 0) + r - e
+	    )
+    balance_monthly		= np.array(balance_monthly)
+
+    ax3.plot( months, balance_monthly, label="Net Balance" )
+    ax3.legend()
+
+    plt.tight_layout()
+    plt.savefig(f)
+    f
+  #+END_SRC
+
+  #+RESULTS:
+  [[file:images/revenue-projection.png]]
+
+  #+LATEX: }
+
+* Conclusion
+
+  An aggressive plan to develop a viable mutual-credit community currency is proposed.
+
+  A 1-year plan to research, develop, deploy and test the community money system establishes a group
+  of vendors and clients to test the prototype deployment using real money, in preparation for the
+  second year's opening of the system to further vendors and clients, who can either purchase or
+  create community money through attestation of wealth.
+
+   Let's build this future together.
