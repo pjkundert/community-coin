@@ -1,0 +1,764 @@
+             ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+              BUSINESS PLAN FOR LOCAL CURRENCY DEPLOYMENT
+
+                             Perry Kundert
+             ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+                               2024-04-16
+
+
+Money created through debt and centrally-managed through interest rates
+has proven to be problematic.  The benefits (such as the ability to
+create and issue large amounts of money to fund projects) are
+overwhelmed by the caustic effects of inflation, and the exponential
+growth of interest obligations.
+
+Issuing fungible and trustworthy asset-backed money based on individual
+or collective wealth (assets, labour commitments, etc.) has until now
+been out of reach.  The technical hurdles, and the opposition of
+entrenched political and banking incumbents have been insurmountable.
+
+The time has now arrived where we are able to surmount these obstacles:
+• Technology to implement reliable and performant decentralized monetary
+  systems is here.
+• The public will to accept decentralized value-stable money is rising.
+• The government and bank opposition to sound money can be legally and
+  technically overcome.
+
+Table of Contents
+─────────────────
+
+1. Executive Summary
+2. What is "Sound Money"
+.. 1. Sound Money vs. Debt Money
+.. 2. Competitive Sound Money
+3. Proposed Transition
+.. 1. Establish Non-Fiat Payment Options
+..... 1. Crypto Wallet Setup, Security & Reliability
+..... 2. Crypto L2 Payments
+..... 3. Precious Metals
+..... 4. Barter
+.. 2. Develop Mutual Credit Community Based Money
+..... 1. Insurance
+..... 2. Convertability
+..... 3. Value Stability
+.. 3. Decentralization
+4. Financial Projections
+.. 1. 1st Year: $1,000,000 Cost
+..... 1. Initial R&D: 6 Months
+..... 2. Operational Deployment: 6 Months
+..... 3. Technical Team Lead: $200,000
+..... 4. Holochain Full-Stack R&D: $200,000
+..... 5. Monetary System R&D: $200,000
+..... 6. Community Interface & Product Owner: $150,000
+..... 7. Social Media, Communications & PR: $100,000
+..... 8. Hardware, Software: $50,000
+..... 9. Travel, Misc. Expenses: $100,000
+.. 2. 2nd Year: Neutral
+.. 3. 3rd Year: Profitable
+5. Effect on Community Business Success
+.. 1. Altman Z''-Score
+..... 1. Z''-Score vs. S&P Credit Rating
+..... 2. $x_1$ (37%) Current vs. Total Assets
+..... 3. $x_3$ (38%) Earnings Before Interest & Taxes vs. Total Assets
+..... 4. $x_2$ (19%) Retained Earnings vs. Total Assets
+..... 5. $x_4$ (6%) Market Value / Total Liabilities
+6. Conclusion
+
+
+1 Executive Summary
+═══════════════════
+
+  The widespread use of alternative sound money in local communities
+  hinges on solving several problems:
+
+  1. Creating units of sound money dynamically, without central
+     authority.
+     • Improving the financial health of businesses and individuals in
+       the community
+  2. Spending and accepting sound money in realistic, non-ideal
+     circumstances.
+     • Begin by enabling payment/acceptance of available sound money
+       alternatives
+     • Refine the definition and implementation of the community's sound
+       money over time.
+  3. Build, advertise, expand and defend the knowledge of where
+     alternative sound money can be used.
+     • Using systems that cannot be interfered with by hostile
+       authorities
+
+  The proposed Community Currency accomplishes these goals, and can be
+  implemented legally, promptly and reliable using technology now
+  available.
+
+
+2 What is "Sound Money"
+═══════════════════════
+
+  Unsound money is easy to define, as we are experiencing it every day:
+  • Unconstrained taxation, empowered by unlimited debt creation,
+    results in money laundering and perverse market incentives.
+  • Uncontrolled inflation robs savers of their wealth, and transfers it
+    to those first to the government trough.
+
+  How can sound money be created, and how can it prevent some of these
+  problems?  Traditional methods have been somewhat successful, but have
+  not been able support community currencies, because not all
+  communities can (or want to) convert their wealth into a different
+  form, just to retain purchasing power:
+
+        "The gold standard makes the determination of money's
+        purchasing power independent of the changing ambitions and
+        doctrines of political parties and pressure groups. This
+        is not a defect of the gold standard; it is its main
+        excellence." – Ludwig von Mises
+
+  Reliable convertability of money to something of value – resistance to
+  debasement – is a major (often subconscious) requirement users have of
+  Sound Money.  How can we achieve it, without (for example) forcing
+  everyone to sell their wealth to buy other wealth to use as money?  Is
+  the only method to trust someone to not debase our money?
+
+  Some historical methods result in wealth being exchanged for units of
+  money:
+
+  1. Directly using the valuable commodity as money (eg. gold coinage,
+     barter)
+  2. Trusting some central authority to issue/redeem money for some
+     valuable commodity (eg. gold-backed money)
+  3. Exchanging wealth for some other money with certain desirable
+     properties (eg. Bitcoin, Fiat currency)
+
+  These are all analogous to "selling" wealth for money in Fiat banking.
+  The wealth owner loses access to the wealth, gaining only the money
+  (or what it purchased).  This is typically the only form of money
+  ownership available to the general population.
+
+  Alternatively, the creation and attested ownership of wealth can
+  produce money; the owner retains use of the wealth, and units of money
+  are created (which must be redeemed, in order to sell or transfer the
+  attested wealth):
+
+  1. Using money representing confirmed ownership of wealth
+     (eg. securitization, tokenization)
+  2. Creation of credit balances of money in Mutual Credit systems.
+  3. Trading obligations of future labour for money and/or other labour
+     (Commitment Pooling).
+
+  These are mechanically very similar to "borrowing" in Fiat banking
+  terms; a lien is established on the underlying wealth, various
+  guarantees are assured (insurance, proof of title, etc.), and the
+  credit balance is created.  The balance created must be returned if
+  the wealth is sold, or destroyed (triggering insurance).  This type of
+  money ownership is primarily reserved for the elites, except at very
+  onerous terms and high interest rates (eg. Mortgages, demand loans).
+
+  Most oddly; the issuers of these loans (commercial banks) create these
+  deposits out of thin air; they have no collateral other than that
+  provided by the borrower.  In return for this amazing
+  government-mandated monopoly, they can charge interest for creating
+  these new units of money.
+
+
+2.1 Sound Money vs. Debt Money
+──────────────────────────────
+
+  All of these forms of Sound Money have a couple of significant
+  deficiencies vs. debt-created Fiat money:
+
+  They are typically not /fungible/; "tokenized" chickens have a
+  different value than some "mutual credit" units or "silver" coins.
+  Future labour commitments from a ditch digger are not usually directly
+  exchangeable for the same amount of service from a neurosurgeon.
+
+  As a consequence, accumulation of large pools of money is very
+  challenging.  Any large pool consists of various types of money, with
+  a dynamic value vs. each other, and also vs. the acquisition target of
+  the pool.
+
+  Debt-created Fiat money, on the other hand, is usually:
+  1. Fungible; all assets are converted into money, which can be pooled
+     interchangeably.
+  2. Easily created; bonds can be issued and sold in large markets to
+     raise funds, and deposits created by a commercial bank on promise
+     of principle and interest repayment.
+
+  While a Fiat money supply retains its convertability to wealth, this
+  works well.  But typically, such convertability ceases as soon as the
+  politicians controlling the treasury and central bank can manage it.
+
+  As a final result, the Cantillon Effect produces a fountain of
+  unbacked money the flows through the hands of those closest to the
+  treasury and central bank, allowing them to purchase wealth with
+  current dollars, while the ultimate sellers end up with debased
+  dollars in exchange.
+
+
+2.2 Competitive Sound Money
+───────────────────────────
+
+  All of these forms of money creation will continue to be available; we
+  simply offer a competitive alternative.
+
+  We propose making the creation of Sound Money available to the general
+  public, through the attested ownership of wealth, without a
+  corresponding interest obligation – completely out of the control of
+  central planners.
+
+  The public can continue to choose to take their collateral wealth and
+  sell, convert or pledge and borrow against it to create traditional
+  forms of debt-based money, if they so desire.
+
+  But, by making it /possible/ for the general public to create balances
+  of value-stable wealth-backed money on demand without interest
+  (through the attested ownership of wealth and assurance of
+  guarantees), it is likely that they will quickly convert any available
+  wealth to sound money, and spend it, pay down their interest-bearing
+  debt, or use it for whatever purpose they desire.
+
+  The only obligation required, is that they must redeem the attested
+  wealth by restoring the money they created, if they wish to sell or
+  otherwise dispose of the wealth.  Other than that, they continue to
+  enjoy and use the wealth as they always have.
+
+
+3 Proposed Transition
+═════════════════════
+
+  Initially, we must begin offering some currently available
+  Cryptocurrency based options (which are superior to debt-based money,
+  even though they have many deficiencies).  This allows businesses and
+  clients to begin exercising their Cryptocurrency muscles; creating
+  wallets, securing them amongst their community using SLIP-39 backups,
+  and performing on-chain (L1; Bitcoin, Ethereum), side-chain (L2;
+  Lightning) and non-custodial exchange (DeFi) transactions.
+
+  Next, we propose building simple partially centralized wealth-backed
+  stable community currencies.  These will initially have trusted
+  community authorities that approve the attachment of wealth to these
+  currencies according to their agreed-upon vetting process.  Authorized
+  wealth attestation signatories (eg. Appraisers, with digital signing
+  authority) will evaluate and approve wealth attached for the creation
+  of units of the Community Currency.  Also, community provided
+  insurance adjusters will approve claims of loss/destruction of
+  attached wealth, to make the Community Currency whole in the face of
+  unexpected losses.
+
+  Finally, a fully decentralized implementation of both wealth
+  attestation and insurance adjudication will replace the centralized
+  authority, completing the transition to a fully decentralized
+  wealth-backed Community Currency.
+
+
+3.1 Establish Non-Fiat Payment Options
+──────────────────────────────────────
+
+  Immediately prepare and begin to roll out:
+
+  1. Cryptocurrency based payment rails for both vendors and and buyers.
+  2. Recommend ongoing pricing in Gold & silver coin.
+
+  All non-Fiat savings can be hedged against conversion loses in the
+  traditional Fiat futures or options markets, if necessary to protect
+  future Fiat denominated obligations.
+
+
+3.1.1 Crypto Wallet Setup, Security & Reliability
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+
+3.1.2 Crypto L2 Payments
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+◊ 3.1.2.1 Bitcoin "Lightning"
+
+
+◊ 3.1.2.2 Ethereum Roll-Ups
+
+
+3.1.3 Precious Metals
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+
+3.1.4 Barter
+╌╌╌╌╌╌╌╌╌╌╌╌
+
+
+3.2 Develop Mutual Credit Community Based Money
+───────────────────────────────────────────────
+
+  We propose developing a Holochain-based framework for deploying
+  community-based Money.  Credit balances will be created directly
+  through the community's attestation of wealth (proof of traditional
+  valuation, insurance and liens).
+
+
+3.2.1 Insurance
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  The insurance required to assure the integrity of the community money
+  may be provided by external insurers, or may be provided by the
+  money's authoring community for a fee.  It should reflect the
+  actuarial risk of the assets (a car on the road vs. silver in a bank
+  safe deposit box), the net balance of the account (proportion of the
+  asset value being insured), and the risk of the owner (historically
+  how likely is such an owner to default, defraud, etc.).
+
+  These estimation techniques are widely known in the risk community,
+  and should be adjusted from time to time to ensure stability of the
+  insurance fund.  Credit Default Swaps are quite well modelled and
+  understood, and should provide a strong foundation for pricing
+  premiums and estimating reserves required to protect the Community
+  Currency against losses.
+
+  The triggering of payouts from the fund should be prompt, to maintain
+  the net zero balance of the Mutual Credit currency.  They may be
+  automatic (eg. triggered after a certain threshold and/or time period
+  of negative balance), or manually triggered, as desired by the
+  community money's organizers.  However, valid Mutual Credit operations
+  in process must remain valid, so long as they were entered into before
+  the account fell into arrears.
+
+
+3.2.2 Convertability
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  Until markets and exchanges are available in the Community Currency,
+  existing exchanges must be used to for Fiat on/off-ramps.  Many
+  exchanges deal in Ethereum and ERC-20 Stablecoins such as USDC and
+  USDT, so a means must be available to convert between the native
+  Community Currency units and an ERC-20 form.
+
+  Then, conversion to other Cryptocurrencies and to/from Fiat is
+  accomplished through integration into the existing Ethereum ERC-20
+  DeFi exchanges platforms (eg. PancakeSwap, Uniswap, 1inch, …).
+
+  A centralized community exchange controls conversion between Community
+  Currency Mutual Credit units and ERC-20 units on a one-to-one basis.
+  This would be run by the same community organization in charge of the
+  attestation of wealth underpinning the community Mutual Credit
+  currency.  Units of Community Currency are deposited and held in
+  reserve, and ERC-20 tokens are issued and transferred into the
+  depositor's Ethereum wallet address.  Later, deposits of ERC-20 tokens
+  are burned and the reserve's Community Currency tokens are transferred
+  to the depositor's Community Currency wallet.
+
+  The use of pools on Ethereum L2 sidechains (eg. Polygon, Arbitrum,
+  Optimism, …) is worth considering due to their dramatically lower fees
+  vs. Ethereum native DeFi.
+
+
+3.2.3 Value Stability
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  If desired, the definition of the community currency can be defined to
+  be value-stable in terms of some reference basket of wealth.
+
+  When wealth is pledged to create a credit balance, the process is:
+
+  1. Estimate the value of the wealth in its primary market (eg. USD$)
+  2. Estimate its assets' uncertainty function over time (eg. reduced
+     value since attestation).
+  3. The community responsible attests to the wealth, and the presence
+     of necessary insurances.
+  4. Apply the money's current credit multiplier to compute the credit
+     balance, reduced by the uncertainty function, regularly (eg. daily
+     or hourly) on all credit balances.
+
+  A closed-loop control function (such as a PID loop) measures and
+  corrects money unit/basket value:
+
+  1. The current value of the proposed wealth basket (eg. in
+     USD$/basket, in their markets)
+  2. The current value of the community money (eg. in USDC/unit, on DeFi
+     exchanges)
+  3. The control function computes the new money credit multiplier due
+     to in/deflation
+  4. All credit balances are adjusted due to the new credit multiplier
+  5. Any accounts with negative credit balances must attest more wealth,
+     or purchase money on the market to restore net positive balance.
+  6. Insurance contracts are executed to make good any account
+     persistently in arrears, using traditional means to recoup losses.
+
+  This is a very brief overview; much more detail about this process is
+  available at my [Owner Credit] Git Repo and in my [Wealth Coin paper].
+
+
+[Owner Credit] <https://github.com/pjkundert/ownercredit.git>
+
+[Wealth Coin paper]
+<https://docs.google.com/document/d/1ohJu7kxz3JlmJZE139iFJanzb5XNS5kEzT1H543Mabk>
+
+
+3.3 Decentralization
+────────────────────
+
+  The final step is to build robust distributed attestation performance
+  ratings and markets, and insurance adjudication validation systems.
+
+  By eliminating the centralized vesting of authority over attestation
+  and insurance, and instead using the same historical performance
+  feedback (poor sale value predictions = low attestation fees) and
+  distributed rule validation (incorrect insurance adjustment claims =
+  low adjudication fees), both the attachment of wealth and creation of
+  Community Currency units, and recovery from unexpected loss of wealth
+  becomes more trustworthy and scalable.
+
+
+4 Financial Projections
+═══════════════════════
+
+  We propose an aggressive R&D plan over a 1 year period, resulting in
+  several prototypes followed by an operational deployment of a
+  Holochain-based community money system.
+
+
+4.1 1st Year: $1,000,000 Cost
+─────────────────────────────
+
+  Over the first year, R&D and community communications and
+  collaboration are costs, with no income from system operations to
+  offset them.
+
+  Of course, the project can be investigated and a detailed break-down
+  of timelines and costs can be accomplished at a much lower initial
+  investment!  But, this is a rough guess at how much a fully
+  operational system would cost to achieve in the short timelines
+  required.
+
+
+4.1.1 Initial R&D: 6 Months
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  I foresee the first 6 months of the year dedicated to:
+
+  1. Designing and testing currently available near-term systems and
+     solutions such as Lightning Network
+  2. Producing PR and travelling extensively to communicate the
+     long-term plan, and advise on near-term solutions.
+  3. Producing 2-4 prototypes of the community money system, with
+     increasing functionality
+  4. Designing an integration with traditional insurers to provide
+     re-insurance
+
+
+4.1.2 Operational Deployment: 6 Months
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  Once an operational Mutual Credit community money system is accepted,
+  and the community money ERC-20 exchange is operational, initial
+  deployment can begin.
+
+  A small set of vendors with some large willing clients is chosen, to
+  invest a subset of their trade through the community money system.
+  Instead of settling in cash, the clients either create community money
+  (through attestation of wealth) or purchase it using the Fiat USDC to
+  ERC-20 token DeFi, then exchange for Mutual Credit units via the
+  community exchange.
+
+  Then, they settle client to vendor transactions using community money
+  instead of Fiat.
+
+  Finally, the vendor cashes out community money via the community money
+  to ERC-20 exchange, and then the ERC-20 DeFi pool to receive USDC,
+  when can be converted and deposited to Fiat accounts via any
+  Cryptocurrency exchange.
+
+  Alternatively, the vendor can purchase wealth using community money
+  payments to other vendor(s).  Then, by attesting the newly purchased
+  wealth, they can create new community money (interest free), and cash
+  that out, as described above.
+
+
+4.1.3 Technical Team Lead: $200,000
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+
+4.1.4 Holochain Full-Stack R&D: $200,000
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+
+4.1.5 Monetary System R&D: $200,000
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+
+4.1.6 Community Interface & Product Owner: $150,000
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+
+4.1.7 Social Media, Communications & PR: $100,000
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+
+4.1.8 Hardware, Software: $50,000
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+
+4.1.9 Travel, Misc. Expenses: $100,000
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+
+4.2 2nd Year: Neutral
+─────────────────────
+
+  Wider community uptake results in insurance fee revenue collection
+  filling the loss buffer, and sufficient to pay for maintenance and
+  further R&D of the operating community money system.
+
+
+4.3 3rd Year: Profitable
+────────────────────────
+
+  Fees on wealth attestation insurance begin to stabilize, and are
+  automated using PID control to yield a revenue stream to support the
+  ongoing operations of the community money system, while maintaining a
+  buffer against adverse insurable events (eg. natural disasters)
+
+
+5 Effect on Community Business Success
+══════════════════════════════════════
+
+  Unless a Community Currency improves the success of local businesses
+  (and by extension, the lives of those both who work for them, and
+  those who use their products, why would anyone adopt it?
+
+
+5.1 Altman Z''-Score
+────────────────────
+
+  A useful metric in evaluating a business' health is its Z''-Score,
+  developed by Altman in 1968.  This metric, produced from published
+  financial data, can be used to predict the future health of the
+  business.  In particular, how statistically likely the business is to
+  default.
+
+  This score can be used to price Credit Default Swaps; a method for
+  estimating the "insurance premiums" that must be charged, to
+  accumulate funds to offset defaults in any attested wealth pledged for
+  the creation of Community Currency money.
+
+  How does a Community Currency influence the Z''-Score?  Let's see.
+
+  \begin{equation}
+
+  Z'' = 6.56x_1 + 3.26x_2 + 6.72x_3 + 1.05x_4			% 17.58
+
+  x_1 = \textrm{Working Capital / Total Assets}		% 37%
+
+  x_2 = \textrm{Retained Earnings / Total Assets}		% 19%
+
+  x_3 = \textrm{EBIT / Total Assets}				% 38%
+
+  x_4 = \textrm{Market Value of Equity / Total Liabilities}	%  6%
+
+  \end{equation}
+
+  The net effect of Debt vs. Community Currency (from greatest to least
+  impact):
+
+
+5.1.1 Z''-Score vs. S&P Credit Rating
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  A relationship between $Z''$ Score and [S&P Credit Rating] has been
+  long established:
+
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   Rating  Z''-Score  Health       Rating  Z''-Score  Health    
+  ──────────────────────────────────────────────────────────────
+   AAA         >8.15  Safe Area    BB+          5.65  Grey Area 
+   AA+          8.15               BB           5.25            
+   AA           7.60               BB-          4.95            
+   AA-          7.30               B+           4.75            
+   A+           7.00               B            4.40  Distress  
+   A            6.85               B-           4.15            
+   A-           6.65               CCC+         3.75            
+   BBB+         6.40               CCC+         3.20            
+   BBB+         6.25               CCC-         2.50            
+   BBB-         5.85               D           <1.75            
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+  Let's imagine a small company earning $30,000/year before
+  interest/taxes (1/2 Retained), with $60,000 in Current Assets and
+  $10,000 in Current Liabilities.  It has another $140,000 in
+  Non-Current Assets (equipment, etc.) for $200,000 Total Assets, and an
+  additional $40,000 in Non-Current Liabilities for $50,000 in Total
+  Liabilities.  A conservative market valuation of the company's
+  Retained Earnings over 5 years is assumed.
+
+  It's $Z''$ Score is currently:
+
+  \( x_1 == ($60,000 - $10,000) / $200,000 == 0.25 * 6.56 = 1.64 $ \)
+
+  \( x_2 == $15,000 / $200,000 == 0.075 * 3.26 = 0.25 \)
+
+  \( x_3 == $30,000 / $200,000 == 0.15 * 6.72 = 1.00 \)
+
+  \( x_4 == ($15,000 * 5) / $50,000 == 1.5 * 1.05 = 1.57 \)
+
+  Thus, the company's /*$Z''$ Score is 4.5, giving us an S&P rating of
+  B+*/; in bottom of the "Grey Area" of financial health.
+
+  It is considering borrowing $50,000 at 10% APR for $5,000/yr interest,
+  to expand and provide a buffer for its business.
+
+  How does taking on Debt Financing vs. accumulating Community Currency
+  affect its health?
+
+
+[S&P Credit Rating]
+<https://www.researchgate.net/figure/Correspondence-between-Z-Score-and-Standard-Poor-Rating_tbl1_311341021>
+
+
+5.1.2 $x_1$ (37%) Current vs. Total Assets
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  The first $Z''$ term $x_1$ is the ratio of Working Capital / Total
+  Assets, or (Current Assets - Current Liabilities) / Total Assets.
+
+  Working capital is the difference between the current assets of a
+  company and its current liabilities. The value of a company’s working
+  capital determines its short-term financial health. A positive working
+  capital means that a company can meet its short-term financial
+  obligations and still make funds available to invest and grow.
+
+  Current Assets (assets convertible to cash within 1 year) are deemed
+  to be available to liquidate to pay expenses, Current Liabilities are
+  those due within the year.
+
+  Total Assets encompass current assets, but they also include
+  non-current assets such as property, plant, and equipment (PP&E),
+  intangible assets (like patents or trademarks), long-term investments,
+  and other non-current assets.
+
+
+◊ 5.1.2.1 Debt Financing: Mortgaging Non-Current Assets
+
+  Increasing Current Assets by assuming debt (borrowing against
+  Non-Current assets or issuing Bonds) is the typical approach.  This
+  improves $x_1$ by increasing Current Assets (cash) much more than it
+  increases Current Liabilities (principal + interest payments).
+
+  \( x_1 == ($60,000 - $10,000) / $200,000 == 0.25 * 6.56 = 1.64 $ \)
+
+  After receiving the proceeds of the $50,000 loan:
+
+  \( x_1 == ($110,000 - $15,000) / $250,000 == 0.38 * 6.56 = 2.5 $ \)
+
+  Thus, the company's $X''$ rises by about 0.86 due to $x_1$.
+
+
+◊ 5.1.2.2 Community Currency: Attestation of Non-Current Assets
+
+  Instead of mortgaging assets at interest, a similar amount of capital
+  becomes available by obtaining attestation on the assets, and
+  attaching them to the Community Currency account of the organization.
+  Similar insurance, lien and legal costs are required as for issuing
+  debt.
+
+  The effect on $x_1$ is identical to debt financing; however, once the
+  Community Currency credit balance is issued, there /is no interest
+  payable/, which increases future Earnings and reduces Current
+  Liabilities.
+
+
+5.1.3 $x_3$ (38%) Earnings Before Interest & Taxes vs. Total Assets
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  EBIT shouldn't change $x_3$, regardless of the source of funding
+  (Retained Earnings, which is net of interest, will alter $x_2$).
+
+
+◊ 5.1.3.1 Debt Financing
+
+  $x_3$ is reduced, due to the additional $50,000 of Total Assets:
+
+  \( $30,000 / $200,000 == 0.15 * 6.72 = 1.008 \)
+
+  After:
+
+  \( $30,000 / $250,000 == 0.125 * 6.72 = 0.806 \)
+
+  So, the company's $X''$ drops about 0.2 due to $x_3$; the net change
+  is now about +0.66, so it's still a marked improvement.
+
+
+◊ 5.1.3.2 Community Currency
+
+  The effect on $x_3$ is identical to Debt financing.
+
+
+5.1.4 $x_2$ (19%) Retained Earnings vs. Total Assets
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  Every year the $5,000 interest payment for debt financing weighs on
+  the company's Retained Earnings.
+
+
+◊ 5.1.4.1 Debt Financing; Reduction in Retained Earnings
+
+  All else being equal, any retained earnings *must* be reduced by (at
+  least) the amount made unavailable due to the interest payments;
+  $15,000 reduces by $5,000, so $x_2$'s contribution of 0.25 is reduced
+  to:
+
+  \( x_2 = $10,000 / $250,000 == 0.04 * 3.26 = .130 \)
+
+  A reduction in $Z''$ of .12, to a new net change in score of +.73.
+
+
+◊ 5.1.4.2 Community Currency; Retained Earnings Unaffected
+
+  Since no interest payments drag on Retained Earnings, only the
+  increase of Total Assets affects $x_2$:
+
+  \( x_2 = $15,000 / $250,000 == 0.06 * 3.26 = .2 \)
+
+  A reduction in $Z''$ of only .05, to a net change in score of +.81.
+
+
+5.1.5 $x_4$ (6%) Market Value / Total Liabilities
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  The drag on earnings in Debt vs. Community Currency financing would
+  influence equity valuation negatively.  Since this valuation is often
+  subjective, we're limiting it to just Retained Earnings; one of the
+  most obvious measure of a company's long-term profitability.
+
+
+◊ 5.1.5.1 Debt Financing
+
+  \( x_4 == ($10,000 * 5) / $50,000 == 1.0 * 1.05 = 1.05 \)
+
+  A reduction in $Z''$ by $x_4$ dropping from 1.57 by 0.52 to 1.05
+  reduces our net score change to +0.21.
+
+  Under Debt Financing our final /*$Z''$ Score is 4.5, implying an S&P
+  rating of B+*/ (unchanged).
+
+
+◊ 5.1.5.2 Community Currency
+
+  The Retained Earnings remain unchanged with Community Currency
+  issuance, though, and our $Z''$ net score change remains +.81.
+
+  Under Community Currency financing our final /*$Z''$ Score is 5.08,
+  implying an S&P rating of BB*/ (improvement of 2 full S&P ratings).
+
+
+6 Conclusion
+════════════
+
+  An aggressive plan to develop a viable Mutual Credit community
+  currency is proposed.
+
+  A 1-year plan to research, develop, deploy and test the community
+  money system establishes a group of vendors and clients to test the
+  prototype deployment using real money, in preparation for the second
+  year's opening of the system to further vendors and clients, who can
+  either purchase or create community money through attestation of
+  wealth.
+
+  Let's build this future together.
