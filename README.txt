@@ -9,17 +9,15 @@
 
 
 Money created through debt and centrally-managed through interest rates
-has proven to be problematic.  The benefits (such as the ability to
-create and issue large amounts of money to fund projects) are
-overwhelmed by the caustic effects of inflation, and the exponential
-growth of interest obligations.
+has proven to be problematic.  The benefits are overwhelmed by the
+caustic effects of inflation, and the exponential growth of interest
+obligations.
 
 Issuing fungible and trustworthy asset-backed money based on individual
-or collective wealth (assets, labour commitments, etc.) has until now
-been out of reach.  The technical hurdles, and the opposition of
-entrenched political and banking incumbents have been insurmountable.
-
-The time has now arrived where we are able to surmount these obstacles:
+or collective wealth has until now been out of reach.  The technical
+hurdles, and the opposition of entrenched political and banking
+incumbents have been insurmountable, but the time has now arrived where
+we are able to overcome them:
 • Technology to implement reliable and performant decentralized monetary
   systems is here.
 • The public will to accept decentralized value-stable money is rising.
@@ -30,6 +28,8 @@ Table of Contents
 ─────────────────
 
 1. Executive Summary
+.. 1. Sound Community Money Is Needed
+.. 2. A Response Is Now Legally and Technically Possible
 2. What is "Sound Money"
 .. 1. Sound Money vs. Debt Money
 .. 2. Competitive Sound Money
@@ -50,6 +50,19 @@ Table of Contents
 1 Executive Summary
 ═══════════════════
 
+  We are proposing an aggressive course of Research, Development,
+  Proving and Deployment of a foundation for wealth-backed, value-stable
+  Community Currencies.
+
+  Whether investing in the project, joining the development team, or
+  participating in community discussions, we encourage you to engage
+  with us at your earliest opportunity, as the time for meaningfully
+  responding to failures in our monetary systems is becoming short.
+
+
+1.1 Sound Community Money Is Needed
+───────────────────────────────────
+
   The widespread use of alternative sound money in local communities
   hinges on solving several problems:
 
@@ -67,6 +80,10 @@ Table of Contents
      alternative sound money can be used.
      • Using systems that cannot be interfered with by hostile
        authorities
+
+
+1.2 A Response Is Now Legally and Technically Possible
+──────────────────────────────────────────────────────
 
   The proposed Community Currency accomplishes these goals, and can be
   implemented legally, promptly and reliable using technology now
@@ -210,9 +227,9 @@ Table of Contents
   Cryptocurrency based options (which are superior to debt-based money,
   even though they have many deficiencies).  This allows businesses and
   clients to begin exercising their Cryptocurrency muscles; creating
-  wallets, securing them amongst their community using SLIP-39 backups,
-  and performing on-chain (L1; Bitcoin, Ethereum), side-chain (L2;
-  Lightning) and non-custodial exchange (DeFi) transactions.
+  wallets, securing them amongst their community using [SLIP-39] [1]
+  backups, and performing on-chain (L1; Bitcoin, Ethereum), side-chain
+  (L2; Lightning) and non-custodial exchange (DeFi[2]) transactions.
 
   Next, we propose building simple partially centralized wealth-backed
   stable community currencies.  These will initially have trusted
@@ -230,6 +247,8 @@ Table of Contents
   authority, completing the transition to a fully decentralized
   wealth-backed Community Currency.
 
+
+[SLIP-39] <https://slip39.com>
 
 3.1 Establish Non-Fiat Payment Options
 ──────────────────────────────────────
@@ -288,11 +307,12 @@ Table of Contents
   Fully private, non-custodial wallets are difficult to set up and
   fragile to secure.
 
-  Community-based SLIP-39 backup standards are available, and hardware
-  wallets from vendors like Trezor and Ledger for day-to-day payments
-  are inexpensive and reliable.  Training on setup and use will still be
-  necessary, and will prepare the community for future transition to
-  much more reliable and powerful systems built on Holochain.
+  Community-based SLIP-39[1] backup standards are available, and
+  hardware wallets from vendors like Trezor and Ledger for day-to-day
+  payments are inexpensive and reliable.  Training on setup and use will
+  still be necessary, and will prepare the community for future
+  transition to much more reliable and powerful systems built on
+  Holochain[3].
 
 
 ◊ 3.1.2.2 Crypto L2 Payments
@@ -332,7 +352,7 @@ Table of Contents
 3.2 Develop Mutual Credit Community Based Money
 ───────────────────────────────────────────────
 
-  We propose developing a Holochain-based framework for deploying
+  We propose developing a Holochain[3]-based framework for deploying
   community-based Money.  Credit balances will be created directly
   through the community's attestation of wealth (proof of traditional
   valuation, insurance and liens).
@@ -370,18 +390,18 @@ Table of Contents
 
   Until markets and exchanges are available in the Community Currency,
   existing exchanges must be used to for Fiat on/off-ramps.  Many
-  exchanges deal in Ethereum and ERC-20 Stablecoins such as USDC and
+  exchanges deal in Ethereum and ERC-20[4] Stablecoins such as USDC and
   USDT, so a means must be available to convert between the native
-  Community Currency units and an ERC-20 form.
+  Community Currency units and an ERC-20[4] form.
 
   Then, conversion to other Cryptocurrencies and to/from Fiat is
-  accomplished through integration into the existing Ethereum ERC-20
+  accomplished through integration into the existing Ethereum ERC-20[4]
   DeFi exchanges platforms (eg. PancakeSwap, Uniswap, …).
 
   A centralized community exchange controls conversion between Community
-  Currency Mutual Credit units and ERC-20 units on a one-to-one basis.
-  This would be run by the same community organization in charge of the
-  attestation of wealth underpinning the community Mutual Credit
+  Currency Mutual Credit units and ERC-20[4] units on a one-to-one
+  basis.  This would be run by the same community organization in charge
+  of the attestation of wealth underpinning the community Mutual Credit
   currency.  Units of Community Currency are deposited and held in
   reserve, and ERC-20 tokens are issued and transferred into the
   depositor's Ethereum wallet address.  Later, deposits of ERC-20 tokens
@@ -438,8 +458,9 @@ Table of Contents
 3.3 Decentralization
 ────────────────────
 
-  The final step is to build robust distributed attestation performance
-  ratings and markets, and insurance adjudication validation systems.
+  The final step involves building robust distributed systems for
+  attestation performance ratings, market operations, and insurance
+  adjudication validation.
 
   By eliminating the centralized vesting of authority over attestation
   and insurance, and instead using the same historical performance
@@ -455,7 +476,7 @@ Table of Contents
 
   We propose an aggressive R&D plan over a 1 year period, resulting in
   several prototypes followed by an operational deployment of a
-  Holochain-based community money system.
+  Holochain[3]-based community money system.
 
 
 4.1 1st Year: Sprint to Operational Deployment
@@ -482,7 +503,7 @@ Table of Contents
 4.1.1 Initial R&D: 6 Months
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
-  I foresee the first 6 months of the year dedicated to:
+  The first 6 months will focus on:
 
   1. Designing and testing currently available near-term systems and
      solutions such as Lightning Network
@@ -582,11 +603,11 @@ Table of Contents
 5.1 Altman Z''-Score
 ────────────────────
 
-  A useful metric in evaluating a business' health is its Z''-Score,
-  developed by Altman in 1968.  This metric, produced from published
-  financial data, can be used to predict the future health of the
-  business.  In particular, how statistically likely the business is to
-  default.
+  The Altman Z"-Score, developed in 1968, is a useful metric for
+  evaluating a business's financial health.  This metric, produced from
+  published financial data, can be used to predict the future health of
+  the business.  In particular, how statistically likely the business is
+  to default.
 
   This score can be used to price Credit Default Swaps; a method for
   estimating the "insurance premiums" that must be charged, to
@@ -653,8 +674,9 @@ Table of Contents
 
   \( x_4 == ($15,000 * 5) / $50,000 == 1.5 * 1.05 = 1.57 \)
 
-  Thus, the company's /*$Z''$ Score is 4.5, giving us an S&P rating of
-  B+*/; in bottom of the "Grey Area" of financial health.
+  Thus, the company's /*$Z''$ Score is 4.5, corresponding to an S&P
+  rating of B+*/, placing it in the lower end of the 'Grey Area' of
+  financial health.
 
   It is considering borrowing $50,000 at 10% APR for $5,000/yr interest,
   to expand and provide a buffer for its business.
@@ -838,3 +860,24 @@ Table of Contents
   wealth.
 
   Let's build this future together.
+
+
+
+Footnotes
+─────────
+
+[1] A method for reliably and securely splitting seed entropy (such as
+BIP-39 mnemonic phrases) between many parties.
+
+[2] Decentralized Finance, often sylized as DeFi, are financial systems
+that operate without intermediaries such as brokerages, exchanges, or
+banks.
+
+[3] A development platform for large-scale decentralized and distributed
+systems, which yields many of the benefits of "blockchain" while
+avoiding some of their intractable problems, provides
+censorship-resistance, promotes individual authority over, and provable
+responsibility for, all agent actions.
+
+[4] The standard for defining and creating fungible tokens such as
+cryptocurrencies on the Ethereum Virtual Machine.
