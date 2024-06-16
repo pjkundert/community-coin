@@ -185,7 +185,7 @@ Table of Contents
   works well.  But typically, such convertability ceases as soon as the
   politicians controlling the treasury and central bank can manage it.
 
-  As a final result, the Cantillon Effect produces a fountain of
+  As a final result, the Cantillon Effect[1] produces a fountain of
   unbacked money the flows through the hands of those closest to the
   treasury and central bank, allowing them to purchase wealth with
   current dollars, while the ultimate sellers end up with debased
@@ -227,9 +227,9 @@ Table of Contents
   Cryptocurrency based options (which are superior to debt-based money,
   even though they have many deficiencies).  This allows businesses and
   clients to begin exercising their Cryptocurrency muscles; creating
-  wallets, securing them amongst their community using [SLIP-39] [1]
+  wallets, securing them amongst their community using [SLIP-39] [2]
   backups, and performing on-chain (L1; Bitcoin, Ethereum), side-chain
-  (L2; Lightning) and non-custodial exchange (DeFi[2]) transactions.
+  (L2; Lightning) and non-custodial exchange (DeFi[3]) transactions.
 
   Next, we propose building simple partially centralized wealth-backed
   stable community currencies.  These will initially have trusted
@@ -269,10 +269,11 @@ Table of Contents
   Unfortunately, it is unlikely that there will *ever* be widespread
   usage of precious metals or cryptocurrencies for day to purchases.
 
-  While Gresham's Law has been applied mostly to silver vs. base-metal
-  coinage (where everyone keeps the silver and spends the base-metal),
-  this extends further to spending /any/ units of account, where some
-  suffer persistent /*inflation*/, and others experience /*deflation*/.
+  While Gresham's Law[4] has been applied mostly to silver
+  vs. base-metal coinage (where everyone keeps the silver and spends the
+  base-metal), this extends further to spending /any/ units of account,
+  where some suffer persistent /*inflation*/, and others experience
+  /*deflation*/.
 
   People will always choose to spend the inflating (eg. Fiat) money, and
   save in terms of deflating (eg. precious metals, cryptocurrency)
@@ -307,12 +308,12 @@ Table of Contents
   Fully private, non-custodial wallets are difficult to set up and
   fragile to secure.
 
-  Community-based SLIP-39[1] backup standards are available, and
+  Community-based SLIP-39[2] backup standards are available, and
   hardware wallets from vendors like Trezor and Ledger for day-to-day
   payments are inexpensive and reliable.  Training on setup and use will
   still be necessary, and will prepare the community for future
   transition to much more reliable and powerful systems built on
-  Holochain[3].
+  Holochain[5].
 
 
 ◊ 3.1.2.2 Crypto L2 Payments
@@ -352,7 +353,7 @@ Table of Contents
 3.2 Develop Mutual Credit Community Based Money
 ───────────────────────────────────────────────
 
-  We propose developing a Holochain[3]-based framework for deploying
+  We propose developing a Holochain[5]-based framework for deploying
   community-based Money.  Credit balances will be created directly
   through the community's attestation of wealth (proof of traditional
   valuation, insurance and liens).
@@ -390,16 +391,16 @@ Table of Contents
 
   Until markets and exchanges are available in the Community Currency,
   existing exchanges must be used to for Fiat on/off-ramps.  Many
-  exchanges deal in Ethereum and ERC-20[4] Stablecoins such as USDC and
+  exchanges deal in Ethereum and ERC-20[6] Stablecoins such as USDC and
   USDT, so a means must be available to convert between the native
-  Community Currency units and an ERC-20[4] form.
+  Community Currency units and an ERC-20[6] form.
 
   Then, conversion to other Cryptocurrencies and to/from Fiat is
-  accomplished through integration into the existing Ethereum ERC-20[4]
+  accomplished through integration into the existing Ethereum ERC-20[6]
   DeFi exchanges platforms (eg. PancakeSwap, Uniswap, …).
 
   A centralized community exchange controls conversion between Community
-  Currency Mutual Credit units and ERC-20[4] units on a one-to-one
+  Currency Mutual Credit units and ERC-20[6] units on a one-to-one
   basis.  This would be run by the same community organization in charge
   of the attestation of wealth underpinning the community Mutual Credit
   currency.  Units of Community Currency are deposited and held in
@@ -476,7 +477,7 @@ Table of Contents
 
   We propose an aggressive R&D plan over a 1 year period, resulting in
   several prototypes followed by an operational deployment of a
-  Holochain[3]-based community money system.
+  Holochain[5]-based community money system.
 
 
 4.1 1st Year: Sprint to Operational Deployment
@@ -866,18 +867,28 @@ Table of Contents
 Footnotes
 ─────────
 
-[1] A method for reliably and securely splitting seed entropy (such as
-BIP-39 mnemonic phrases) between many parties.
+[1] The Cantillon Effect describes that as new money is injected into an
+economy, its effects are felt by different people and industries at
+different times. This leads to a distortion of relative prices,
+benefiting some parties while disadvantaging others.
 
-[2] Decentralized Finance, often sylized as DeFi, are financial systems
+[2] SLIP-39 is a method for reliably and securely splitting seed entropy
+(such as BIP-39 mnemonic phrases) between many parties.
+
+[3] Decentralized Finance, often sylized as DeFi, are financial systems
 that operate without intermediaries such as brokerages, exchanges, or
 banks.
 
-[3] A development platform for large-scale decentralized and distributed
-systems, which yields many of the benefits of "blockchain" while
-avoiding some of their intractable problems, provides
+[4] Gresham's Law suggests that when two forms of currency are in
+circulation, with one being of lower value than the other, the
+lower-value currency will eventually drive the higher-value currency out
+of circulation.
+
+[5] Holochain is a development platform for large-scale decentralized
+and distributed systems, which yields many of the benefits of
+"blockchain" while avoiding some of their intractable problems, provides
 censorship-resistance, promotes individual authority over, and provable
 responsibility for, all agent actions.
 
-[4] The standard for defining and creating fungible tokens such as
-cryptocurrencies on the Ethereum Virtual Machine.
+[6] ERC-20 is the standard for defining and creating fungible tokens
+such as cryptocurrencies on the Ethereum Virtual Machine.

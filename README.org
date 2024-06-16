@@ -125,9 +125,12 @@ overcome them:
    such convertability ceases as soon as the politicians controlling the treasury and central bank
    can manage it.
 
-   As a final result, the Cantillon Effect produces a fountain of unbacked money the flows through
-   the hands of those closest to the treasury and central bank, allowing them to purchase wealth
-   with current dollars, while the ultimate sellers end up with debased dollars in exchange.
+   As a final result, the Cantillon Effect[fn:Cantillon: The Cantillon Effect describes that as new
+   money is injected into an economy, its effects are felt by different people and industries at
+   different times. This leads to a distortion of relative prices, benefiting some parties while
+   disadvantaging others.]  produces a fountain of unbacked money the flows through the hands of
+   those closest to the treasury and central bank, allowing them to purchase wealth with current
+   dollars, while the ultimate sellers end up with debased dollars in exchange.
 
 ** Competitive Sound Money
 
@@ -156,9 +159,9 @@ overcome them:
   Initially, we must begin offering some currently available Cryptocurrency based options (which are
   superior to debt-based money, even though they have many deficiencies).  This allows businesses
   and clients to begin exercising their Cryptocurrency muscles; creating wallets, securing them
-  amongst their community using [[https://slip39.com][SLIP-39]] [fn:SLIP-39: A method for reliably and securely splitting
-  seed entropy (such as BIP-39 mnemonic phrases) between many parties.] backups, and performing
-  on-chain (L1; Bitcoin, Ethereum), side-chain (L2; Lightning) and non-custodial exchange
+  amongst their community using [[https://slip39.com][SLIP-39]] [fn:SLIP-39: SLIP-39 is a method for reliably and securely
+  splitting seed entropy (such as BIP-39 mnemonic phrases) between many parties.] backups, and
+  performing on-chain (L1; Bitcoin, Ethereum), side-chain (L2; Lightning) and non-custodial exchange
   (DeFi[fn:DeFi: Decentralized Finance, often sylized as DeFi, are financial systems that operate
   without intermediaries such as brokerages, exchanges, or banks.]) transactions.
 
@@ -189,9 +192,12 @@ overcome them:
     Unfortunately, it is unlikely that there will *ever* be widespread usage of precious metals or
     cryptocurrencies for day to purchases.
 
-    While Gresham's Law has been applied mostly to silver vs. base-metal coinage (where everyone
-    keeps the silver and spends the base-metal), this extends further to spending /any/ units of
-    account, where some suffer persistent /*inflation*/, and others experience /*deflation*/.
+    While Gresham's Law[fn:Gresham: Gresham's Law suggests that when two forms of currency are in
+    circulation, with one being of lower value than the other, the lower-value currency will
+    eventually drive the higher-value currency out of circulation.] has been applied mostly to
+    silver vs. base-metal coinage (where everyone keeps the silver and spends the base-metal), this
+    extends further to spending /any/ units of account, where some suffer persistent /*inflation*/,
+    and others experience /*deflation*/.
 
     People will always choose to spend the inflating (eg. Fiat) money, and save in terms of
     deflating (eg. precious metals, cryptocurrency) money.
@@ -222,9 +228,9 @@ overcome them:
      Community-based SLIP-39[fn:SLIP-39] backup standards are available, and hardware wallets from
      vendors like Trezor and Ledger for day-to-day payments are inexpensive and reliable.  Training
      on setup and use will still be necessary, and will prepare the community for future transition
-     to much more reliable and powerful systems built on Holochain[fn:Holochain: A development
-     platform for large-scale decentralized and distributed systems, which yields many of the
-     benefits of "blockchain" while avoiding some of their intractable problems, provides
+     to much more reliable and powerful systems built on Holochain[fn:Holochain: Holochain is a
+     development platform for large-scale decentralized and distributed systems, which yields many
+     of the benefits of "blockchain" while avoiding some of their intractable problems, provides
      censorship-resistance, promotes individual authority over, and provable responsibility for, all
      agent actions.].
 
@@ -275,10 +281,10 @@ overcome them:
 *** Convertability
 
     Until markets and exchanges are available in the Community Currency, existing exchanges must be
-    used to for Fiat on/off-ramps.  Many exchanges deal in Ethereum and ERC-20[fn:ERC-20: The
-    standard for defining and creating fungible tokens such as cryptocurrencies on the
-    Ethereum Virtual Machine.] Stablecoins such as USDC and USDT, so a means must be available to
-    convert between the native Community Currency units and an ERC-20[fn:ERC-20] form.
+    used to for Fiat on/off-ramps.  Many exchanges deal in Ethereum and ERC-20[fn:ERC-20: ERC-20 is
+    the standard for defining and creating fungible tokens such as cryptocurrencies on the Ethereum
+    Virtual Machine.] Stablecoins such as USDC and USDT, so a means must be available to convert
+    between the native Community Currency units and an ERC-20[fn:ERC-20] form.
 
     Then, conversion to other Cryptocurrencies and to/from Fiat is accomplished through integration
     into the existing Ethereum ERC-20[fn:ERC-20] DeFi exchanges platforms (eg. PancakeSwap, Uniswap, ...).
