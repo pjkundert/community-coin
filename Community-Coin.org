@@ -3,7 +3,7 @@
 #+EMAIL: perry@dominionrnd.com
 #+DATE: 2024-04-16
 #+DRAFT: true
-#+EXPORT_FILE_NAME: README.pdf
+#+EXPORT_FILE_NAME: Community-Coin.pdf
 #+STARTUP: org-startup-with-inline-images inlineimages
 #+OPTIONS: ^:nil # Disable sub/superscripting with bare _; _{...} still works
 #+OPTIONS: toc:nil
