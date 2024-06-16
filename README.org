@@ -27,7 +27,7 @@ The time has now arrived where we are able to surmount these obstacles:
 - The government and bank opposition to sound money can be legally and technically overcome.
 #+END_ABSTRACT
 
-#+TOC: headlines 3
+#+TOC: headlines 2
 
 * Executive Summary
 
@@ -40,7 +40,7 @@ The time has now arrived where we are able to surmount these obstacles:
      - Refine the definition and implementation of the community's sound money over time.
   3. Build, advertise, expand and defend the knowledge of where alternative sound money can be used.
      - Using systems that cannot be interfered with by hostile authorities
-       
+
   The proposed Community Currency accomplishes these goals, and can be implemented legally, promptly
   and reliable using technology now available.
 
@@ -166,67 +166,115 @@ The time has now arrived where we are able to surmount these obstacles:
    Immediately prepare and begin to roll out:
 
    1. Cryptocurrency based payment rails for both vendors and and buyers.
-   2. Recommend ongoing pricing in Gold & silver coin.
+   2. Recommend ongoing pricing in gold & silver coin.
 
-   All non-Fiat savings can be hedged against conversion loses in the traditional Fiat futures or
-   options markets, if necessary to protect future Fiat denominated obligations.
+   All non-Fiat savings from payments can be hedged against conversion loses in the traditional Fiat
+   futures or options markets, if necessary to protect future Fiat denominated obligations.
 
-*** Crypto Wallet Setup, Security & Reliability
-   
-*** Crypto L2 Payments
+*** Gresham's Law: Bad Money Drives Out Good
 
-**** Bitcoin "Lightning"
+    Unfortunately, it is unlikely that there will *ever* be widespread usage of precious metals or
+    cryptocurrencies for day to purchases.
 
-**** Ethereum Roll-Ups
+    While Gresham's Law has been applied mostly to silver vs. base-metal coinage (where everyone
+    keeps the silver and spends the base-metal), this extends further to spending /any/ units of
+    account, where some suffer persistent /*inflation*/, and others experience /*deflation*/.
+
+    People will always choose to spend the inflating (eg. Fiat) money, and save in terms of
+    deflating (eg. precious metals, cryptocurrency) money.
+
+    Both options are not ideal.  A long-term financial calculus must be undertaken at /every/ purchase or sale:
+
+    #+BEGIN_QUOTE
+    /Will whatever I'm buying change in value vs. the money I'm exchanging it for?/
+    #+END_QUOTE
+
+    Ideal, sound money should neither inflate nor deflate vs. the majority of the things it is
+    exchanged for.  Only a unit of money that retains an exact value in terms of a very broad basket
+    of basic commodities -- /out of which everything in society is produced/ -- can maintain such a
+    standard.
+
+    However, we must start with /something/, until such powerful, reliable and stable money is
+    created.
+
+*** Cryptocurrencies
+
+    Most existing cryptocurrencies are fixed-issuance deflationary tokens, so will unlikely enjoy
+    widespread use for day-to-day payments compared to stable coins like USDC, USDT, etc.
+
+**** Crypto Wallet Setup, Security & Reliability
+
+     Fully private, non-custodial wallets are difficult to set up and fragile to secure.
+
+     Community-based SLIP-39 backup standards are available, and hardware wallets from vendors like
+     Trezor and Ledger for day-to-day payments are inexpensive and reliable.  Training on setup and
+     use will still be necessary, and will prepare the community for future transition to much more
+     reliable and powerful systems built on Holochain.
+
+**** Crypto L2 Payments
+
+    Until fully decentralized systems can be deployed, primarily "custodial" systems based on
+    present cryptocurrencies must be supported.  These support quick, easy and relatively secure
+    holding of "walking around money" for day to day usage, and already enjoy wide support.
+
+    Bitcoin "Lightning" and Ethereum side-chains are existing, proven candidates.
 
 *** Precious Metals
 
+    Options like the Utah "[[https://www.goldback.com/][Goldback]]" and silver coinage should be supported.  Relatively simple
+    verification techniques are available (especially for silver coin).  These will likely only be
+    used for high-value purchases of quality, appreciating assets.
+
 *** Barter
+
+    Systems like [[https://www.barterit.ca/][Barter It]] that attempt to solve the "Coincidence of Wants" problem are good options
+    to support.
 
 ** Develop Mutual Credit Community Based Money
 
-   We propose developing a Holochain-based framework for deploying community-based Money.  Credit balances will  be created
-   directly through the community's attestation of wealth (proof of traditional valuation, insurance and liens).
+   We propose developing a Holochain-based framework for deploying community-based Money.  Credit
+   balances will be created directly through the community's attestation of wealth (proof of
+   traditional valuation, insurance and liens).
 
 *** Insurance
 
-   The insurance required to assure the integrity of the community money may be provided by external
-   insurers, or may be provided by the money's authoring community for a fee.  It should reflect the
-   actuarial risk of the assets (a car on the road vs. silver in a bank safe deposit box), the net
-   balance of the account (proportion of the asset value being insured), and the risk of the owner
-   (historically how likely is such an owner to default, defraud, etc.).
+    The insurance required to assure the integrity of the community money may be provided by
+    external insurers, or may be provided by the money's authoring community for a fee.  It should
+    reflect the actuarial risk of the assets (a car on the road vs. silver in a bank safe deposit
+    box), the net balance of the account (proportion of the asset value being insured), and the risk
+    of the owner (historically how likely is such an owner to default, defraud, etc.).
 
-   These estimation techniques are widely known in the risk community, and should be adjusted from
-   time to time to ensure stability of the insurance fund.  Credit Default Swaps are quite well
-   modelled and understood, and should provide a strong foundation for pricing premiums and
-   estimating reserves required to protect the Community Currency against losses.
+    These estimation techniques are widely known in the risk community, and should be adjusted from
+    time to time to ensure stability of the insurance fund.  Credit Default Swaps are quite well
+    modelled and understood, and should provide a strong foundation for pricing premiums and
+    estimating reserves required to protect the Community Currency against losses.
 
-   The triggering of payouts from the fund should be prompt, to maintain the net zero balance of the
-   Mutual Credit currency.  They may be automatic (eg. triggered after a certain threshold and/or
-   time period of negative balance), or manually triggered, as desired by the community money's
-   organizers.  However, valid Mutual Credit operations in process must remain valid, so long as
-   they were entered into before the account fell into arrears.
+    The triggering of payouts from the fund should be prompt, to maintain the net zero balance of
+    the Mutual Credit currency.  They may be automatic (eg. triggered after a certain threshold
+    and/or time period of negative balance), or manually triggered, as desired by the community
+    money's organizers.  However, valid Mutual Credit operations in process must remain valid, so
+    long as they were entered into before the account fell into arrears.
 
 *** Convertability
 
-   Until markets and exchanges are available in the Community Currency, existing exchanges must be
-   used to for Fiat on/off-ramps.  Many exchanges deal in Ethereum and ERC-20 Stablecoins such as
-   USDC and USDT, so a means must be available to convert between the native Community Currency
-   units and an ERC-20 form.
+    Until markets and exchanges are available in the Community Currency, existing exchanges must be
+    used to for Fiat on/off-ramps.  Many exchanges deal in Ethereum and ERC-20 Stablecoins such as
+    USDC and USDT, so a means must be available to convert between the native Community Currency
+    units and an ERC-20 form.
 
-   Then, conversion to other Cryptocurrencies and to/from Fiat is accomplished through integration into the
-   existing Ethereum ERC-20 DeFi exchanges platforms (eg. PancakeSwap, Uniswap, 1inch, ...).
+    Then, conversion to other Cryptocurrencies and to/from Fiat is accomplished through integration
+    into the existing Ethereum ERC-20 DeFi exchanges platforms (eg. PancakeSwap, Uniswap, ...).
 
-   A centralized community exchange controls conversion between Community Currency Mutual Credit
-   units and ERC-20 units on a one-to-one basis.  This would be run by the same community
-   organization in charge of the attestation of wealth underpinning the community Mutual Credit
-   currency.  Units of Community Currency are deposited and held in reserve, and ERC-20 tokens are
-   issued and transferred into the depositor's Ethereum wallet address.  Later, deposits of ERC-20
-   tokens are burned and the reserve's Community Currency tokens are transferred to the depositor's
-   Community Currency wallet.
+    A centralized community exchange controls conversion between Community Currency Mutual Credit
+    units and ERC-20 units on a one-to-one basis.  This would be run by the same community
+    organization in charge of the attestation of wealth underpinning the community Mutual Credit
+    currency.  Units of Community Currency are deposited and held in reserve, and ERC-20 tokens are
+    issued and transferred into the depositor's Ethereum wallet address.  Later, deposits of ERC-20
+    tokens are burned and the reserve's Community Currency tokens are transferred to the depositor's
+    Community Currency wallet.
 
-   The use of pools on Ethereum L2 sidechains (eg. Polygon, Arbitrum, Optimism, ...) is worth
-   considering due to their dramatically lower fees vs. Ethereum native DeFi.
+    The use of pools on Ethereum L2 sidechains (eg. Polygon, Arbitrum, Optimism, ...) is worth
+    considering due to their dramatically lower fees vs. Ethereum native DeFi.
 
 *** Value Stability
 
@@ -269,14 +317,20 @@ The time has now arrived where we are able to surmount these obstacles:
   We propose an aggressive R&D plan over a 1 year period, resulting in several prototypes followed
   by an operational deployment of a Holochain-based community money system.
 
-** 1st Year: $1,000,000 Cost
+** 1st Year: Sprint to Operational Deployment
 
-   Over the first year, R&D and community communications and collaboration are costs, with no income
-   from system operations to offset them.
+   Over the first year, R&D and community communications and collaboration are substantial costs,
+   with no income from system operations to offset them.
 
    Of course, the project can be investigated and a detailed break-down of timelines and costs can
    be accomplished at a much lower initial investment!  But, this is a rough guess at how much a
    fully operational system would cost to achieve in the short timelines required.
+
+   But, I feel that the idea of a slow, multi-year R&D process is not appropriate, given the gravity
+   of the potential outcomes of the looming widespread failure of Fiat monetary systems.
+
+   The time for timid half-measures has passed, and the moment for decisive action in the face of
+   grave risks has arrived.
 
 *** Initial R&D: 6 Months
 
@@ -307,19 +361,27 @@ The time has now arrived where we are able to surmount these obstacles:
     Then, by attesting the newly purchased wealth, they can create new community money (interest
     free), and cash that out, as described above.
 
-*** Technical Team Lead: $200,000
+*** The Team
 
-*** Holochain Full-Stack R&D: $200,000
+    A seasoned, proven technical R&D team is absolutely necessary.  These people are already making
+    much higher incomes than these.
 
-*** Monetary System R&D: $200,000
+    However, I believe a pool of talent is available that would be willing to undertake this project
+    at a steep discount, because of its meaningfulness and impact to civilization.
 
-*** Community Interface & Product Owner: $150,000
+**** Technical Team Lead: $200,000
 
-*** Social Media, Communications & PR: $100,000
+**** Holochain Full-Stack R&D: $200,000
 
-*** Hardware, Software: $50,000
+**** Monetary System R&D: $200,000
 
-*** Travel, Misc. Expenses: $100,000
+**** Community Interface & Product Owner: $150,000
+
+**** Social Media, Communications & PR: $100,000
+
+**** Hardware, Software: $50,000
+
+**** Travel, Misc. Expenses: $100,000
 
 ** 2nd Year: Neutral
 
@@ -457,7 +519,7 @@ The time has now arrived where we are able to surmount these obstacles:
 **** Debt Financing
 
      $x_3$ is reduced, due to the additional $50,000 of Total Assets:
-     
+
      \( $30,000 / $200,000 == 0.15 * 6.72 = 1.008 \)
 
      After:
@@ -504,11 +566,11 @@ The time has now arrived where we are able to surmount these obstacles:
 **** Debt Financing
 
     \( x_4 == ($10,000 * 5) / $50,000 == 1.0 * 1.05 = 1.05 \)
-     
+
     A reduction in $Z''$ by $x_4$ dropping from 1.57 by 0.52 to 1.05 reduces our net score change to +0.21.
 
     Under Debt Financing our final /*$Z''$ Score is 4.5, implying an S&P rating of B+*/ (unchanged).
-    
+
 **** Community Currency
 
     The Retained Earnings remain unchanged with Community Currency issuance, though, and our $Z''$ net
@@ -517,6 +579,20 @@ The time has now arrived where we are able to surmount these obstacles:
     Under Community Currency financing our final /*$Z''$ Score is 5.08, implying an S&P rating of
     BB*/ (improvement of 2 full S&P ratings).
 
+** The Z''-Score and Wealth Monetization
+
+   An attractive feature of the Altman Z''-Score is that it can be computed using publicly available
+   data.
+
+*** Monetization Cost Computation
+
+    Every act of monetizing wealth to produce credit balances entails risk of default that must be
+    mitigated.  These risks have costs which should naturally borne by the beneficiary of the credit
+    balance as either up-front or regular fees, as appropriate.
+
+    Using something like the Z''-Score to compute the risk (and hence fees) is one possible way to
+    implement automatic, decentralized calculation of these fees, and move away from centralized
+    attestation to a completely decentralized system of wealth monetization.
 
 * Conclusion
 
@@ -527,4 +603,4 @@ The time has now arrived where we are able to surmount these obstacles:
   second year's opening of the system to further vendors and clients, who can either purchase or
   create community money through attestation of wealth.
 
-   Let's build this future together.
+  Let's build this future together.

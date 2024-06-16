@@ -35,35 +35,15 @@ Table of Contents
 .. 2. Competitive Sound Money
 3. Proposed Transition
 .. 1. Establish Non-Fiat Payment Options
-..... 1. Crypto Wallet Setup, Security & Reliability
-..... 2. Crypto L2 Payments
-..... 3. Precious Metals
-..... 4. Barter
 .. 2. Develop Mutual Credit Community Based Money
-..... 1. Insurance
-..... 2. Convertability
-..... 3. Value Stability
 .. 3. Decentralization
 4. Financial Projections
-.. 1. 1st Year: $1,000,000 Cost
-..... 1. Initial R&D: 6 Months
-..... 2. Operational Deployment: 6 Months
-..... 3. Technical Team Lead: $200,000
-..... 4. Holochain Full-Stack R&D: $200,000
-..... 5. Monetary System R&D: $200,000
-..... 6. Community Interface & Product Owner: $150,000
-..... 7. Social Media, Communications & PR: $100,000
-..... 8. Hardware, Software: $50,000
-..... 9. Travel, Misc. Expenses: $100,000
+.. 1. 1st Year: Sprint to Operational Deployment
 .. 2. 2nd Year: Neutral
 .. 3. 3rd Year: Profitable
 5. Effect on Community Business Success
 .. 1. Altman Z''-Score
-..... 1. Z''-Score vs. S&P Credit Rating
-..... 2. $x_1$ (37%) Current vs. Total Assets
-..... 3. $x_3$ (38%) Earnings Before Interest & Taxes vs. Total Assets
-..... 4. $x_2$ (19%) Retained Earnings vs. Total Assets
-..... 5. $x_4$ (6%) Market Value / Total Liabilities
+.. 2. The Z''-Score and Wealth Monetization
 6. Conclusion
 
 
@@ -257,32 +237,96 @@ Table of Contents
   Immediately prepare and begin to roll out:
 
   1. Cryptocurrency based payment rails for both vendors and and buyers.
-  2. Recommend ongoing pricing in Gold & silver coin.
+  2. Recommend ongoing pricing in gold & silver coin.
 
-  All non-Fiat savings can be hedged against conversion loses in the
-  traditional Fiat futures or options markets, if necessary to protect
-  future Fiat denominated obligations.
-
-
-3.1.1 Crypto Wallet Setup, Security & Reliability
-╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+  All non-Fiat savings from payments can be hedged against conversion
+  loses in the traditional Fiat futures or options markets, if necessary
+  to protect future Fiat denominated obligations.
 
 
-3.1.2 Crypto L2 Payments
-╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+3.1.1 Gresham's Law: Bad Money Drives Out Good
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
-◊ 3.1.2.1 Bitcoin "Lightning"
+  Unfortunately, it is unlikely that there will *ever* be widespread
+  usage of precious metals or cryptocurrencies for day to purchases.
+
+  While Gresham's Law has been applied mostly to silver vs. base-metal
+  coinage (where everyone keeps the silver and spends the base-metal),
+  this extends further to spending /any/ units of account, where some
+  suffer persistent /*inflation*/, and others experience /*deflation*/.
+
+  People will always choose to spend the inflating (eg. Fiat) money, and
+  save in terms of deflating (eg. precious metals, cryptocurrency)
+  money.
+
+  Both options are not ideal.  A long-term financial calculus must be
+  undertaken at /every/ purchase or sale:
+
+        /Will whatever I'm buying change in value vs. the money
+        I'm exchanging it for?/
+
+  Ideal, sound money should neither inflate nor deflate vs. the majority
+  of the things it is exchanged for.  Only a unit of money that retains
+  an exact value in terms of a very broad basket of basic commodities –
+  /out of which everything in society is produced/ – can maintain such a
+  standard.
+
+  However, we must start with /something/, until such powerful, reliable
+  and stable money is created.
 
 
-◊ 3.1.2.2 Ethereum Roll-Ups
+3.1.2 Cryptocurrencies
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  Most existing cryptocurrencies are fixed-issuance deflationary tokens,
+  so will unlikely enjoy widespread use for day-to-day payments compared
+  to stable coins like USDC, USDT, etc.
+
+
+◊ 3.1.2.1 Crypto Wallet Setup, Security & Reliability
+
+  Fully private, non-custodial wallets are difficult to set up and
+  fragile to secure.
+
+  Community-based SLIP-39 backup standards are available, and hardware
+  wallets from vendors like Trezor and Ledger for day-to-day payments
+  are inexpensive and reliable.  Training on setup and use will still be
+  necessary, and will prepare the community for future transition to
+  much more reliable and powerful systems built on Holochain.
+
+
+◊ 3.1.2.2 Crypto L2 Payments
+
+  Until fully decentralized systems can be deployed, primarily
+  "custodial" systems based on present cryptocurrencies must be
+  supported.  These support quick, easy and relatively secure holding of
+  "walking around money" for day to day usage, and already enjoy wide
+  support.
+
+  Bitcoin "Lightning" and Ethereum side-chains are existing, proven
+  candidates.
 
 
 3.1.3 Precious Metals
 ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
+  Options like the Utah "[Goldback]" and silver coinage should be
+  supported.  Relatively simple verification techniques are available
+  (especially for silver coin).  These will likely only be used for
+  high-value purchases of quality, appreciating assets.
+
+
+[Goldback] <https://www.goldback.com/>
+
 
 3.1.4 Barter
 ╌╌╌╌╌╌╌╌╌╌╌╌
+
+  Systems like [Barter It] that attempt to solve the "Coincidence of
+  Wants" problem are good options to support.
+
+
+[Barter It] <https://www.barterit.ca/>
 
 
 3.2 Develop Mutual Credit Community Based Money
@@ -332,7 +376,7 @@ Table of Contents
 
   Then, conversion to other Cryptocurrencies and to/from Fiat is
   accomplished through integration into the existing Ethereum ERC-20
-  DeFi exchanges platforms (eg. PancakeSwap, Uniswap, 1inch, …).
+  DeFi exchanges platforms (eg. PancakeSwap, Uniswap, …).
 
   A centralized community exchange controls conversion between Community
   Currency Mutual Credit units and ERC-20 units on a one-to-one basis.
@@ -414,18 +458,25 @@ Table of Contents
   Holochain-based community money system.
 
 
-4.1 1st Year: $1,000,000 Cost
-─────────────────────────────
+4.1 1st Year: Sprint to Operational Deployment
+──────────────────────────────────────────────
 
   Over the first year, R&D and community communications and
-  collaboration are costs, with no income from system operations to
-  offset them.
+  collaboration are substantial costs, with no income from system
+  operations to offset them.
 
   Of course, the project can be investigated and a detailed break-down
   of timelines and costs can be accomplished at a much lower initial
   investment!  But, this is a rough guess at how much a fully
   operational system would cost to achieve in the short timelines
   required.
+
+  But, I feel that the idea of a slow, multi-year R&D process is not
+  appropriate, given the gravity of the potential outcomes of the
+  looming widespread failure of Fiat monetary systems.
+
+  The time for timid half-measures has passed, and the moment for
+  decisive action in the face of grave risks has arrived.
 
 
 4.1.1 Initial R&D: 6 Months
@@ -471,32 +522,36 @@ Table of Contents
   that out, as described above.
 
 
-4.1.3 Technical Team Lead: $200,000
-╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+4.1.3 The Team
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  A seasoned, proven technical R&D team is absolutely necessary.  These
+  people are already making much higher incomes than these.
+
+  However, I believe a pool of talent is available that would be willing
+  to undertake this project at a steep discount, because of its
+  meaningfulness and impact to civilization.
 
 
-4.1.4 Holochain Full-Stack R&D: $200,000
-╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+◊ 4.1.3.1 Technical Team Lead: $200,000
 
 
-4.1.5 Monetary System R&D: $200,000
-╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+◊ 4.1.3.2 Holochain Full-Stack R&D: $200,000
 
 
-4.1.6 Community Interface & Product Owner: $150,000
-╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+◊ 4.1.3.3 Monetary System R&D: $200,000
 
 
-4.1.7 Social Media, Communications & PR: $100,000
-╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+◊ 4.1.3.4 Community Interface & Product Owner: $150,000
 
 
-4.1.8 Hardware, Software: $50,000
-╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+◊ 4.1.3.5 Social Media, Communications & PR: $100,000
 
 
-4.1.9 Travel, Misc. Expenses: $100,000
-╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+◊ 4.1.3.6 Hardware, Software: $50,000
+
+
+◊ 4.1.3.7 Travel, Misc. Expenses: $100,000
 
 
 4.2 2nd Year: Neutral
@@ -746,6 +801,27 @@ Table of Contents
 
   Under Community Currency financing our final /*$Z''$ Score is 5.08,
   implying an S&P rating of BB*/ (improvement of 2 full S&P ratings).
+
+
+5.2 The Z''-Score and Wealth Monetization
+─────────────────────────────────────────
+
+  An attractive feature of the Altman Z''-Score is that it can be
+  computed using publicly available data.
+
+
+5.2.1 Monetization Cost Computation
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  Every act of monetizing wealth to produce credit balances entails risk
+  of default that must be mitigated.  These risks have costs which
+  should naturally borne by the beneficiary of the credit balance as
+  either up-front or regular fees, as appropriate.
+
+  Using something like the Z''-Score to compute the risk (and hence
+  fees) is one possible way to implement automatic, decentralized
+  calculation of these fees, and move away from centralized attestation
+  to a completely decentralized system of wealth monetization.
 
 
 6 Conclusion
