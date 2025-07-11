@@ -179,7 +179,7 @@ Table of Contents
      interchangeably.
   2. Easily created; bonds can be issued and sold in large markets to
      raise funds, and deposits created by a commercial bank on promise
-     of principle and interest repayment.
+     of principal and interest repayment.
 
   While a Fiat money supply retains its convertability to wealth, this
   works well.  But typically, such convertability ceases as soon as the
@@ -867,10 +867,10 @@ Table of Contents
 Footnotes
 ─────────
 
-[1] The Cantillon Effect describes that as new money is injected into an
-economy, its effects are felt by different people and industries at
-different times. This leads to a distortion of relative prices,
-benefiting some parties while disadvantaging others.
+[1] The Cantillon Effect is the transfer of wealth produced as new money
+is injected into an economy, and its effects are felt by different
+people and industries at different times. This leads to a distortion of
+relative prices, benefiting some parties while disadvantaging others.
 
 [2] SLIP-39 is a method for reliably and securely splitting seed entropy
 (such as BIP-39 mnemonic phrases) between many parties.
