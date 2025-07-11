@@ -46,6 +46,9 @@ The project has been presented to the Alberta Government as a potential "Alberta
 ** [[./communications/Proposal - Alberta Buck - 20240603.pdf][Initial Proposal (June 2024)]]
 First formal presentation of the Community-Coin concept to Alberta Government officials.
 
+** [[./communications/Proposal - Alberta Buck - 20241017 - Deck.pdf][Pitch Deck Presentation (October 2024)]]
+Visual presentation deck summarizing the Alberta Buck concept for government stakeholders.
+
 ** [[./communications/Proposal - Alberta Buck - 20241104 - Reply AR 58480.pdf][Government Response & Follow-up (November 2024)]]
 Official government response and detailed follow-up proposal addressing initial feedback.
 

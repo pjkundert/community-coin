@@ -93,7 +93,18 @@
 - 20240603.pdf>
 
 
-3.2 [Government Response & Follow-up (November 2024)]
+3.2 [Pitch Deck Presentation (October 2024)]
+────────────────────────────────────────────
+
+  Visual presentation deck summarizing the Alberta Buck concept for
+  government stakeholders.
+
+
+[Pitch Deck Presentation (October 2024)] <./communications/Proposal -
+Alberta Buck - 20241017 - Deck.pdf>
+
+
+3.3 [Government Response & Follow-up (November 2024)]
 ─────────────────────────────────────────────────────
 
   Official government response and detailed follow-up proposal
@@ -105,7 +116,7 @@
 58480.pdf>
 
 
-3.3 [Latest Submission (April 2025)]
+3.4 [Latest Submission (April 2025)]
 ────────────────────────────────────
 
   Most recent comprehensive proposal incorporating lessons learned and
