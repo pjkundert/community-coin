@@ -119,18 +119,19 @@ overcome them:
    Debt-created Fiat money, on the other hand, is usually:
    1. Fungible; all assets are converted into money, which can be pooled interchangeably.
    2. Easily created; bonds can be issued and sold in large markets to raise funds, and deposits
-      created by a commercial bank on promise of principle and interest repayment.
+      created by a commercial bank on promise of principal and interest repayment.
 
    While a Fiat money supply retains its convertability to wealth, this works well.  But typically,
    such convertability ceases as soon as the politicians controlling the treasury and central bank
    can manage it.
 
-   As a final result, the Cantillon Effect[fn:Cantillon: The Cantillon Effect describes that as new
-   money is injected into an economy, its effects are felt by different people and industries at
-   different times. This leads to a distortion of relative prices, benefiting some parties while
-   disadvantaging others.]  produces a fountain of unbacked money the flows through the hands of
-   those closest to the treasury and central bank, allowing them to purchase wealth with current
-   dollars, while the ultimate sellers end up with debased dollars in exchange.
+   As a final result, the Cantillon Effect[fn:Cantillon: The Cantillon Effect is the transfer of
+   wealth produced as new money is injected into an economy, and its effects are felt by different
+   people and industries at different times. This leads to a distortion of relative prices,
+   benefiting some parties while disadvantaging others.]  produces a fountain of unbacked money the
+   flows through the hands of those closest to the treasury and central bank, allowing them to
+   purchase wealth with current dollars, while the ultimate sellers end up with debased dollars in
+   exchange.
 
 ** Competitive Sound Money
 
@@ -420,10 +421,19 @@ overcome them:
    yield a revenue stream to support the ongoing operations of the community money system, while
    maintaining a buffer against adverse insurable events (eg. natural disasters)
 
-* Effect on Community Business Success
+* Appendix 1: Effect on Community Business Success
 
   Unless a Community Currency improves the success of local businesses (and by extension, the lives
   of those both who work for them, and those who use their products, why would anyone adopt it?
+
+  Furthermore, in order for businesses to be fairly valued and insured (so that it could be used to
+  back the issuance of new currency based on its market value), its valuation and risk must be
+  automatically and continually measured and updated in a neutral fashion.
+
+  Measuring the effect of improving access and lowering the carrying cost of liquidity to businesses
+  is challenging, but can be done reasonably well using publicly available financial data.
+
+  One such measure is the Alman Z''-Score.
 
 ** Altman Z''-Score
 
