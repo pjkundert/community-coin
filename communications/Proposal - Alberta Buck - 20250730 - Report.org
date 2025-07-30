@@ -17,26 +17,28 @@
 Alberta stands at a historic crossroads where fiscal strength, constitutional opportunity, and
 technological innovation converge to enable transformative monetary reform that benefits all
 Albertans regardless of our province's future constitutional arrangement. This proposal outlines a
-legally compliant pathway to establish an "Alberta Buck" wealth-backed currency system that will
+legally compliant pathway to establish an "Alberta Buck" commodity ownership system that will
 *eliminate $3.2 billion in annual public debt servicing costs*, reduce economic dependence on
-debt-based finance, and position Alberta as a global pioneer in inflation-proof monetary systems.
+debt-based finance, and position Alberta as a global pioneer in asset-backed wealth creation.
 
 The proposal harnesses Alberta's unmatched advantages: the strongest provincial fiscal position in
 Canada (7.6% debt-to-GDP)[fn:1], $30 billion Heritage Savings Trust Fund[fn:2], $21+ billion annual
 resource revenues[fn:3], and proven financial infrastructure through ATB Financial. By implementing
-*wealth attestation rather than currency issuance*, Alberta operates within established
-constitutional powers while delivering genuine economic sovereignty to families, businesses, and
+*commodity value units rather than currency issuance*, Alberta operates within established
+constitutional property rights while delivering genuine economic sovereignty to families, businesses, and
 communities.
 
 Whether Alberta remains a proud province within Confederation or charts an independent course, this
-wealth-backed monetary system strengthens our economic foundation and protects Albertan
+commodity-backed wealth system strengthens our economic foundation and protects Albertan
 prosperity. The system offers concrete solutions to rising costs, debt burdens, and monetary
 inflation while preserving the democratic values and entrepreneurial spirit that define Alberta's
 character.
 
-It is architected to cryptographically and mathematically eliminate monetary inflation and protect
-savings, while also allowing for the large-scale, broad-based money creation required to finance
-both mega-projects and family farms and businesses.
+Alberta Bucks represent value units in a diversified basket of provincial commodities, created
+through a borrowing mechanism where Albertans pledge existing assets to receive commodity units
+without interest obligations. This eliminates interest payments while providing stable,
+inflation-proof value backed by real tangible wealth rather than government promises or financial
+speculation.
 
 * Constitutional Wealth Attestation vs Currency Issuance
 
@@ -63,18 +65,52 @@ This model demonstrates constitutional space for provincial monetary innovation.
 
 *Constitutional safeguards for implementation*: The system must avoid functioning as legal tender,
 maintain Canadian dollar denomination for external transactions, ensure voluntary participation, and
-structure instruments as investment vehicles rather than payment systems. These constraints,
-properly managed, can actually strengthen the system's credibility and stability.
+structure instruments as commodity value certificates rather than investment vehicles or payment
+systems. These constraints, properly managed, can actually strengthen the system's credibility and
+stability.
 
-* Alberta's Exceptional Asset Position for Currency Backing
+* Legal Framework: Commodity Ownership Units vs Currency or Investment Vehicles
 
-Alberta's financial profile presents unparalleled backing capacity for a provincial currency
-system. The province maintains *Canada's lowest debt-to-GDP ratio at 7.6%*[fn:10] while generating
-over $70 billion annually in productive economic capacity through energy and agricultural sectors.
+The Alberta Buck represents a fundamentally different legal instrument than traditional currencies
+or investment securities. *Each Alberta Buck constitutes ownership of units representing a
+diversified basket of Alberta commodities* - energy (oil, natural gas), agricultural products
+(wheat, canola, beef), construction materials (lumber, minerals), and other tangible assets that
+form the foundation of Alberta's economy.
+
+*Borrowing mechanism, not investment*: Alberta Bucks are created through a borrowing process where
+individuals or entities pledge existing wealth (homes, land, equipment, stored produce, etc.) as
+collateral to receive commodity value units equivalent to a portion of the pledged asset's
+value. This mirrors standard secured lending practices but replaces debt obligations with commodity
+value unit transfers.
+
+*Tax-neutral loan proceeds*: Since Alberta Bucks represent "borrowed" commodity units secured by
+pledged assets rather than investment returns or currency appreciation, their creation and use
+should qualify for the same tax treatment as loan proceeds under existing Canadian tax law. The
+balance sheet operations are identical to those that occur when any bank or business creates a loan
+contract.  No taxable income occurs when borrowing against assets, and repayment simply releases the
+collateral - a well-established legal precedent that avoids complex securities regulation.
+
+*Redemption through repayment*: The pledged wealth is released (e.g. can be sold) when Alberta Bucks
+are "repaid" by returning equivalent commodity units to the system. This borrowing-and-repayment
+cycle maintains stable value without appreciation expectations, distinguishing Alberta Bucks from
+both investment securities and traditional currencies that fluctuate based on market speculation.
+
+*Provincial commodity jurisdiction*: Alberta's constitutional authority over natural
+resources extends to creating systems that facilitate ownership and transfer of commodity units
+within provincial jurisdiction. This differs fundamentally from currency issuance (federal) or
+securities regulation (shared jurisdiction) by operating within established property rights
+frameworks.
+
+* Alberta's Exceptional Asset Position for Commodity Backing
+
+Alberta's financial profile presents unparalleled backing capacity for a provincial commodity value
+based system. The province maintains *Canada's lowest debt-to-GDP ratio at 7.6%*[fn:10] while
+generating over $70 billion annually in productive economic capacity through energy and agricultural
+sectors.
 
 *Heritage Savings Trust Fund strength*: The $30 billion professionally managed portfolio returning
 9.7% annually provides immediate liquid backing[fn:11], with growth trajectory targeting $250
-billion by 2050. This fund alone could back substantial currency issuance while maintaining robust
+billion by 2050. This fund alone could back substantial Buck creation while maintaining robust
 reserve ratios.
 
 *Resource revenue foundation*: Alberta generates $21+ billion annually in resource royalties from
@@ -92,23 +128,20 @@ servicing costs[fn:13] - resources that could be redirected to productive invest
 debt-free financing system. This immediate fiscal dividend demonstrates tangible implementation
 benefits.
 
-*Private debt service reduction*: When extended to private debt secured by collateral (mortgages,
-HELOCs, auto and other secured loans), this increases to an estimated $400 billion of debt, with
-annual interest service cost of $20 billion. If only half of this was retired with wealth-backed
-currency issued against net assets, this would free up another $10 billion *per year* in cash flow
-for Albertans to invest and spend.
+*Private debt service reduction*: Alberta's private secured debt (mortgages, HELOCs, auto loans)
+totals approximately $400 billion with $20 billion annual interest payments. When Albertans can
+pledge these same assets to create Alberta Bucks instead of traditional debt, even replacing half of
+this debt eliminates $10 billion *per year* in interest payments, returning this cash flow directly
+to Alberta families and businesses.
 
 * Technical Architecture: Decentralized Cryptographic Wealth Attestation
 
-Modern distributed ledger technology enables sophisticated wealth-backed monetary systems that were
+Modern distributed ledger technology enables sophisticated wealth-backed systems that were
 technically impossible during historical experiments like Alberta's 1930s Social Credit
-initiatives. *Holochain's agent-centric architecture*[fn:14] provides the ideal technical foundation
-for provincial wealth attestation.
+initiatives.
 
-*Core system components* include a Holochain network providing scalable distributed infrastructure,
-wealth attestation layers verifying government-held assets, commodity oracle networks supplying
-real-time price feeds, smart contracts automating currency issuance rules, and integration APIs
-connecting to existing financial infrastructure.
+*Holochain's agent-centric architecture*[fn:14] provides the ideal technical foundation
+for decentralized asset valuation, attestation, and collateral management.
 
 *Richard Werner's credit creation principles*[fn:15] inform the system design, enabling
 community-controlled money supply backed by local net asset wealth rather than debt
@@ -116,6 +149,30 @@ instruments. Unlike traditional fractional reserve banking, this system creates 
 wealth while maintaining full backing ratios.  No
 [[../images/How_do_banks_create_money_and_why_can_other_firms_.pdf][creative accounting]] (reframing
 balance sheet liabilities as customer deposits) is required.
+
+*Asset valuation and attestation process*: When Albertans pledge collateral (homes, land, equipment,
+vehicles, stored produce), the system employs established valuation methods identical to current
+lending practices - professional appraisals, market comparables, insurance valuations, liens, and
+third-party assessments. These assets are priced in their typical market currencies (CAD for real
+estate, USD for commodities, etc.) and cryptographically attested through distributed validation
+networks.
+
+*Buck creation mechanism*: Each Alberta Buck represents a fractional value of a standardized
+commodity basket (energy, agricultural products, construction materials). When collateral is
+pledged, its market value determines the proportional Buck credit created. For example, pledging a
+$500,000 home creates Alberta Bucks equivalent to that value's proportion of the commodity basket,
+calculated in real-time based on current commodity prices.
+
+*Collateral management and insurance*: Pledged assets remain with their owners for continued use
+while cryptographically signed liens secure the Alberta Buck obligations. Standard insurance
+requirements and legal remedies protect against asset loss or damage, with insurance proceeds
+backing the Buck units if claims occur. This mirrors existing secured lending practices but
+eliminates interest obligations.
+
+*Redemption and release process*: Pledged assets are released when Alberta Bucks equivalent to the
+original creation amount are returned to the system. The distributed ledger automatically validates
+redemption transactions and releases cryptographic liens, completing the borrowing-repayment cycle
+without debt accumulation or interest charges.
 
 *Security and governance frameworks* incorporate multi-signature authentication, distributed
 validation across network participants, and transparent democratic governance mechanisms preventing
@@ -232,11 +289,9 @@ spectrum increasingly recognize that debt-based monetary systems transfer wealth
 communities to financial intermediaries, undermining the entrepreneurial values that built our
 province.
 
-*Wealth-backed currency implementation* delivers tangible economic benefits - elimination of debt
-servicing costs, inflation-proof savings, decentralized access to capital - that improve every
-Alberta family's prosperity while preserving democratic governance and market freedom. These
-advantages remain constant whether Alberta operates as a sovereign jurisdiction or within reformed
-federal arrangements.
+*The Alberta Buck system* provides these benefits regardless of constitutional arrangements,
+strengthening Alberta's position whether operating as a province within reformed federal structures
+or as an independent jurisdiction.
 
 *Federal fiscal relationship reform* becomes inevitable as Albertans witness $6+ billion annual net
 transfers through equalization while our own communities struggle with infrastructure deficits and
@@ -262,8 +317,8 @@ participants, and citizen representatives. Alberta decides what inflation-proof 
 the Alberta Buck represents.
 
 *Transparent operations* through cryptographically verified distributed ledger technology enable
-real-time public monitoring of currency issuance, backing ratios, and reserve management. Citizens
-can verify that currency creation aligns with wealth accumulation and democratic decisions.
+real-time public monitoring of Buck creation, commodity backing ratios, and collateral management. Citizens
+can verify that Alberta Buck issuance aligns with actual pledged assets and democratic decisions.
 
 *Professional asset management* leverages AIMCo's $168.9 billion management expertise[fn:26] for
 Heritage Fund growth while maintaining arms-length governance preventing political interference in
@@ -280,10 +335,11 @@ maintaining legal compliance.
 * Risk Assessment and Mitigation
 
 *Constitutional challenges* represent the primary implementation risk, mitigated through careful
-legal foundation emphasizing wealth attestation rather than currency issuance, provincial
+legal foundation emphasizing commodity valuation rather than currency issuance, provincial
 jurisdiction over natural resources and property rights, and gradual implementation avoiding direct
-federal confrontation.  If an Albertan can legally take out a Title Loan on their vehicle, they can
-legally create Alberta Bucks backed by the exact same wealth.
+federal confrontation. The system operates on the same legal principles as existing title loans - if
+an Albertan can legally borrow against their vehicle, they can legally create Alberta Bucks using
+identical collateral mechanisms.
 
 *Federal government resistance* could include regulatory challenges, payment system exclusion, or
 constitutional references. Alberta's response strategy leverages equalization withholding powers,
