@@ -36,6 +36,10 @@
   intermediaries disappears, leaving that value in the hands of Alberta
   families and businesses.
 
+  Alberta loses $63 million /daily/ to interest payments on money banks
+  create from nothing. A $10 million R&D investment could end this
+  wealth extraction permanently.
+
 
 2 Introduction: The Hidden Cost of Debt-Based Money
 ═══════════════════════════════════════════════════
@@ -61,7 +65,7 @@
   The alternative - wealth-backed money creation - would enable
   Albertans to monetize their existing assets without interest
   obligations. Instead of borrowing against a home and paying interest
-  for 25 years, a homeowner could attest the property's value, create
+  for 25 years, a homeowner could verify the property's value, create
   Alberta Bucks equivalent to a portion of that value, and use those
   units for transactions while retaining full use of their property. The
   obligation would simply be to redeem the created units if selling the
@@ -113,10 +117,11 @@
 
   Consider the same farmer under a wealth-backed system. The farmer owns
   $2 million in land, equipment, and stored grain. Through a wealth
-  attestation process similar to current property assessment methods,
-  these assets are verified and valued. The farmer can then create
-  Alberta Bucks equivalent to 50% [3] of the attested value - $1 million
-  - while retaining full use and benefit of the assets.
+  "attestation" process similar to current property assessment and title
+  insurance methods, these assets are verified and valued. The farmer
+  can then create Alberta Bucks equivalent to 50% [3] of the attested
+  value - $1 million - while retaining full use and benefit of the
+  assets.
 
   The critical difference emerges in the payment structure. Rather than
   paying interest to a bank, the farmer pays only insurance premiums to
@@ -149,14 +154,14 @@
   in interest on top of the $380,000 principal, meaning they effectively
   purchase their home 1.7 times.
 
-  Under wealth-backed money creation, the same family could attest their
-  home's value and create Alberta Bucks to purchase it outright. They
-  would pay annual insurance costs of perhaps 0.2% (given the stability
-  of residential real estate), or $760 yearly. The obligation would be
-  to redeem the Alberta Bucks if selling the home, but no interest would
-  accumulate during ownership. The family saves $20,000+ annually, funds
-  that can support local consumption, education investment, or business
-  formation.
+  Under wealth-backed money creation, the same family would verify their
+  home's ownership and value and create Alberta Bucks to purchase it
+  outright. They would pay annual insurance costs of perhaps 0.2% (given
+  the stability of residential real estate), or $760 yearly.  The
+  obligation would be to redeem the Alberta Bucks if selling the home,
+  but no interest would accumulate during ownership. The family saves
+  $20,000+ annually, funds that can support local consumption, education
+  investment, or business formation.
 
   The macroeconomic implications multiply across Alberta's 580,000
   mortgaged households. If even half transition to wealth-backed
@@ -186,8 +191,8 @@
   productive uses.
 
 
-5 Business Transformation: From Debt Servitude to Productive Investment
-═══════════════════════════════════════════════════════════════════════
+5 Business Impact: Debt Servitude to Productive Investment
+══════════════════════════════════════════════════════════
 
 5.1 Agricultural Sector Liberation
 ──────────────────────────────────
@@ -303,11 +308,31 @@
 7 Implementation Urgency: The R&D Imperative
 ════════════════════════════════════════════
 
-  Alberta must immediately initiate a comprehensive research and
-  development program to prototype wealth-backed money creation
-  systems. The technical foundation exists through distributed ledger
-  technologies and established asset attestation methods, but
-  integration and testing require dedicated resources and expertise.
+  Stablecoins backed by USD debt instruments are exploding in use
+  globally [7].  Simultaneously, the Government of Canada is restricting
+  access to crypto technology, preventing similar CAD based instruments,
+  and crippling CAD denominated projects and jurisdictions by
+  restricting them from benefiting from the improvements in operational
+  efficiency and access to funding provided by these technologies.
+
+  Alberta is uniquely positioned to establish itself as a global leader
+  in this field, by offering the world's first Stablecoin backed by a
+  stable, secure and unencumbered /basket of valuable commodities/,
+  instead of volatile and risky /foreign debt instruments/.
+
+  To accomplish this, Alberta must immediately initiate a comprehensive
+  research and development program to prototype wealth-backed money
+  creation systems.  The technical foundation exists through recently
+  discovered failure-resilient distributed ledger technologies and
+  established asset attestation methods and constitutionally protected
+  legal remedies, but integration and testing require dedicated
+  resources and expertise.
+
+  We have home-grown Alberta talent with a proven track record of
+  building continent-spanning industrial automation.  It is time to
+  apply this Alberta Advantage to the /next generation/ of wealth
+  expanding technology: Wealth-backed instead of Debt-backed
+  Stablecoins.
 
 
 7.1 Prototype Development Requirements
@@ -322,33 +347,43 @@
   seamless to encourage adoption. Regulatory frameworks must ensure
   compliance while preserving system benefits.
 
-  A two-year, $10 million R&D program could deliver a function prototype
-  supporting initial pilot programs. This investment would be recouped
-  within /months/ through reduced debt servicing costs once
-  operational. Delay, however, costs Alberta $23 billion annually in
-  unnecessary interest payments: over $63 million /daily/ transferred
-  from productive economy to financial intermediaries.
+  A two-year, $10 million R&D program could deliver a functional initial
+  pilot program.  This investment would be recouped within /months/
+  through reduced debt servicing costs once operational. Delay, however,
+  costs Alberta $23 billion annually in unnecessary interest payments:
+  over $63 million /daily/ transferred from productive economy to
+  financial intermediaries.
 
-  Again: for /15% of the current *daily* cost paid to intermediaries/,
-  Alberta could position itself to be /a global leader in wealth-backed
-  stablecoin technology, implementation and adoption/.
+  The cost/benefit ratios are compelling: for roughly 15% of the current
+  *daily* losses paid to intermediaries, Alberta could position itself
+  to have a globally unique offering: proven expertise in Wealth-backed
+  Stablecoin technology, implementation and adoption.
+
+  Albertans could begin seeing economic benefits within 1 or 2 years.
+  Within 2 or 3 years, global demand for secure Stablecoins to underpin
+  corporate and government treasuries could create demand for Alberta
+  Bucks far beyond even domestic usage.  There is a real possibility
+  that Alberta's vast commodity, energy and farming wealth could become
+  a global reserve asset – if we choose to make it available to the
+  world!
 
 
 7.2 Pilot Program Opportunities
 ───────────────────────────────
 
   Strategic pilot implementations could demonstrate system viability
-  while generating immediate benefits. Agricultural communities facing
+  while generating immediate benefits.  Agricultural communities facing
   acute debt stress present /ideal/ initial deployment opportunities. A
-  pilot program in a county like Vulcan or Stettler could enable farmers
-  to attest grain inventories and equipment, creating Alberta Bucks for
-  operational expenses while retaining assets for production.
+  pilot program focused on Alberta family farming operations could
+  enable farmers to attest grain inventories and equipment, creating
+  Alberta Bucks for operational expenses while retaining assets for
+  production.
 
-  Small business districts in Calgary or Edmonton could pilot commercial
-  applications, enabling businesses to monetize inventory and equipment
-  for working capital without interest obligations. The immediate cash
-  flow improvement would demonstrate benefits while identifying
-  implementation refinements.
+  Small business districts in Calgary, Edmonton or Grande Prairie could
+  pilot commercial applications, enabling businesses to monetize
+  inventory and equipment for working capital without interest
+  obligations. The immediate cash flow improvement would benefit many
+  small businesses while identifying areas needing refinements.
 
   Municipal governments could pilot infrastructure financing through
   wealth-backed Buck creation, funding community projects by attesting
@@ -357,9 +392,10 @@
   in interest costs over 20 years, providing compelling evidence for
   provincial-scale adoption.
 
-  Farmers could band together and raise the capital required to fund the
-  novel wheat straw bio-fuel reformer project being proposed for central
-  Alberta, instead of waiting for traditional capital formation.
+  Farmers and local businesses around Vegreville could band together and
+  /raise the capital/ required to fund the novel Procectus [8] wheat
+  straw bio-fuel reformer project being proposed for central Alberta,
+  instead of awaiting traditional capital formation.
 
 
 7.3 Scaling to Provincial Implementation
@@ -373,28 +409,29 @@
   volume. Educational programs must help Albertans understand and
   utilize the new system effectively.
 
-  The implementation timeline could achieve meaningful impact within
-  five years. Year one focuses on R&D and prototype development. Year
-  two implements agricultural and small business pilots. Year three
-  expands to municipal government participation. Year four enables broad
+  The implementation timeline could achieve /meaningful/ impact within
+  2-3 years. Year one focuses on R&D and prototype development. Year two
+  implements agricultural and small business pilots. Year three expands
+  to municipal government participation. Year four enables broad
   consumer adoption for mortgages and vehicle financing. Year five
   achieves full provincial integration including government finance
   transformation.
 
-  With concerted effort and focus, however, I believe that Alberta could
-  implement this project on a /much/ more rapid time frame.  The
+  With urgent concerted effort and focus, however, Alberta /could/
+  implement this project on a much more rapid time frame.  The
   cryptographic and distributed system tools are now available to build
   a prototype that is usable by technically savvy, willing, private
   communities of crypto-friendly asset holders.  The legal frameworks
   exist to create private asset-backed tokens that represent attested
-  wealth ownership, and the attestation guarantees, liens and other
-  legal recourse required to implement the necessary insurance tools.
+  (verified and insured) wealth ownership, and the constitutionally
+  protected private contractual guarantees, liens and other legal
+  remedies required to implement the necessary insurance tools are
+  regularly exercised and sound.
 
   Alberta can rise to this challenge, and summon the will, effort and
-  finances to bring this project to rapid prototyping, testing and
-  operation.  We Albertans don't feel, look or act like a lethargic,
-  timid and fearful bureaucracy: we understand obstacles, set ambitious
-  goals, and then /get things done./
+  funding to achieve rapid prototyping, testing and operation.  We
+  Albertans understand complex obstacles, set ambitious goals, and then
+  /get things done./
 
 
 8 Conclusion: Alberta's Historic Opportunity
@@ -466,3 +503,8 @@ is computed which maintains a zero inflation rate.
 
 [6] [Fraser Institute: Albertans will pay 2025]
 (<https://www.fraserinstitute.org/commentary/albertans-will-pay-their-governments-budget-deficits>)
+
+[7] [Visa Onchain Analytics] (<https://visaonchainanalytics.com/>)
+
+[8] [Provectus Biofuels Projects]
+(<https://provectusbiofuels.com/projects/>)
