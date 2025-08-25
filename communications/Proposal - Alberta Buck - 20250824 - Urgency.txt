@@ -47,10 +47,10 @@
   Every dollar circulating in Alberta's economy originated as someone's
   debt to a bank.  When an Alberta family takes out a mortgage, the bank
   creates new money by typing numbers into an account, as Werner (2014)
-  empirically demonstrated.  The family provides real collateral - their
-  future home - and commits to decades of interest payments, while the
-  bank risks /no/ existing assets and creates the loan principal from
-  nothing through accounting entries.
+  [1] empirically demonstrated.  The family provides real collateral -
+  their future home - and commits to decades of interest payments, while
+  the bank risks /no/ existing assets and creates the loan principal
+  from nothing through accounting entries.
 
   This system imposes a hidden tax on every economic transaction in
   Alberta.  The province's households currently carry $197 billion in
@@ -58,7 +58,7 @@
   interest alone. Alberta businesses shoulder an additional $203 billion
   in debt with corresponding interest obligations. Meanwhile, the
   provincial government itself pays $3.2 billion yearly servicing its
-  $82.8 billion debt[1]. Collectively, Albertans transfer over $23
+  $82.8 billion debt[2]. Collectively, Albertans transfer over $23
   billion annually to financial institutions simply for the privilege of
   using money that banks create costlessly through regulatory exemption.
 
@@ -77,7 +77,7 @@
 
   Let's briefly address this claim that "Broad" money is created
   primarily by commercial bank lending.  To quote the Bank of England's
-  Money in the Modern Economy (2014): [2]
+  Money in the Modern Economy (2014): [3]
 
   <../images/boe-broad-money.png>
 
@@ -107,7 +107,7 @@
   through collateral and productive labor to generate repayment
   capacity. The bank provides an accounting entry made possible solely
   by its regulatory exemption from Client Money Rules, as Werner (2014)
-  documented. Yet the farmer pays $180,000 for this costless bank
+  [1] documented. Yet the farmer pays $180,000 for this costless bank
   operation while risking losing the collateralized assets if unable to
   maintain payments.
 
@@ -119,7 +119,7 @@
   $2 million in land, equipment, and stored grain. Through a wealth
   "attestation" process similar to current property assessment and title
   insurance methods, these assets are verified and valued. The farmer
-  can then create Alberta Bucks equivalent to 50% [3] of the attested
+  can then create Alberta Bucks equivalent to 50% [4] of the attested
   value - $1 million - while retaining full use and benefit of the
   assets.
 
@@ -199,7 +199,7 @@
 
   Alberta's agricultural sector demonstrates the crushing weight of
   debt-based finance most starkly.  The province's farms carry $37.4
-  billion [4] in debt, with average interest costs consuming a third [5]
+  billion [5] in debt, with average interest costs consuming a third [6]
   of the $5.7 billion in Alberta's farm cash income.  Many operations
   exist primarily to service debt rather than generate prosperity for
   farming families and their communities.
@@ -266,7 +266,7 @@
 
   Alberta currently allocates $3.2 billion annually to debt servicing;
   funds extracted from public services and infrastructure
-  investment. This represents $700 per Albertan [6] yearly, or $2,800
+  investment. This represents $700 per Albertan [7] yearly, or $2,800
   for a family of four, transferred to bondholders rather han invested
   in provincial development.
 
@@ -309,7 +309,7 @@
 ════════════════════════════════════════════
 
   Stablecoins backed by USD debt instruments are exploding in use
-  globally [7].  Simultaneously, the Government of Canada is restricting
+  globally [8].  Simultaneously, the Government of Canada is restricting
   access to crypto technology, preventing similar CAD based instruments,
   and crippling CAD denominated projects and jurisdictions by
   restricting them from benefiting from the improvements in operational
@@ -478,25 +478,30 @@
 Footnotes
 ─────────
 
-[1] [Alberta 2025-28 Fiscal Plan]
+[1] Werner, Richard A. (2014). ["How do banks create money, and why
+can other firms not do the same?"]
+(<https://github.com/pjkundert/community-coin/blob/master/images/How_do_banks_create_money_and_why_can_other_firms_.pdf>)
+International Review of Financial Analysis.
+
+[2] [Alberta 2025-28 Fiscal Plan]
 (<https://open.alberta.ca/dataset/5ebd05dc-d598-440b-9da2-25f37cd99a49/resource/43bccd72-36fa-41a4-becd-cb8c28da9683/download/budget-2025-fiscal-plan-2025-28.pdf>)
 Alberta Budget 2025
 
-[2] [Bank of England]
+[3] [Bank of England]
 (<https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-in-the-modern-economy-an-introduction.pdf>)
 Money in the Modern Economy 2024, pp11
 
-[3] [A dynamic Credit Factor 'K']
+[4] [A dynamic Credit Factor 'K']
 (<https://docs.google.com/document/d/1ohJu7kxz3JlmJZE139iFJanzb5XNS5kEzT1H543Mabk/edit?tab=t.0#heading=h.rurq95welc3r>)
 is computed which maintains a zero inflation rate.
 
-[4] [Farm Debt Outstanding, 2020-2024]
+[5] [Farm Debt Outstanding, 2020-2024]
 (<https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210005101>)
 
-[5] [Alberta Farm Cash Receipts, Expenses 2024]
+[6] [Alberta Farm Cash Receipts, Expenses 2024]
 (<https://economicdashboard.alberta.ca/dashboard/farm-cash-receipts/>)
 
-[6] [Fraser Institute: Albertans will pay 2025]
+[7] [Fraser Institute: Albertans will pay 2025]
 (<https://www.fraserinstitute.org/commentary/albertans-will-pay-their-governments-budget-deficits>)
 
-[7] [Visa Onchain Analytics] (<https://visaonchainanalytics.com/>)
+[8] [Visa Onchain Analytics] (<https://visaonchainanalytics.com/>)

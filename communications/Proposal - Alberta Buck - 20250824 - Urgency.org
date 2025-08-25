@@ -38,9 +38,9 @@ million R&D investment could end this wealth extraction permanently.
 
 Every dollar circulating in Alberta's economy originated as someone's debt to a bank.  When an
 Alberta family takes out a mortgage, the bank creates new money by typing numbers into an account,
-as Werner (2014) empirically demonstrated.  The family provides real collateral - their future home -
-and commits to decades of interest payments, while the bank risks /no/ existing assets and creates
-the loan principal from nothing through accounting entries.
+as Werner (2014) [fn:0] empirically demonstrated.  The family provides real collateral - their
+future home - and commits to decades of interest payments, while the bank risks /no/ existing assets
+and creates the loan principal from nothing through accounting entries.
 
 This system imposes a hidden tax on every economic transaction in Alberta.  The province's households
 currently carry $197 billion in mortgage debt and pay approximately $10 billion annually in mortgage
@@ -83,8 +83,9 @@ totaling $180,000 over a 10-year term.
 The economic absurdity becomes clear when examining what each party contributes. The farmer provides
 genuine valuable consideration through collateral and productive labor to generate repayment
 capacity. The bank provides an accounting entry made possible solely by its regulatory exemption
-from Client Money Rules, as Werner (2014) documented. Yet the farmer pays $180,000 for this costless
-bank operation while risking losing the collateralized assets if unable to maintain payments.
+from Client Money Rules, as Werner (2014) [fn:0] documented. Yet the farmer pays $180,000 for this
+costless bank operation while risking losing the collateralized assets if unable to maintain
+payments.
 
 ** Wealth-Backed Alternative
 
@@ -343,6 +344,9 @@ align /unequivocally/: Alberta must pioneer wealth-backed money creation to secu
 sovereignty and prosperity.
 
 * Footnotes
+
+[fn:0] Werner, Richard A. (2014). [[https://github.com/pjkundert/community-coin/blob/master/images/How_do_banks_create_money_and_why_can_other_firms_.pdf]["How do banks create money, and why can other firms not do the same?"]] International Review of Financial Analysis.
+
 [fn:1] [[https://open.alberta.ca/dataset/5ebd05dc-d598-440b-9da2-25f37cd99a49/resource/43bccd72-36fa-41a4-becd-cb8c28da9683/download/budget-2025-fiscal-plan-2025-28.pdf][Alberta 2025-28 Fiscal Plan]] Alberta Budget 2025
 
 [fn:2] [[https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-in-the-modern-economy-an-introduction.pdf][Bank of England]] Money in the Modern Economy 2024, pp11
