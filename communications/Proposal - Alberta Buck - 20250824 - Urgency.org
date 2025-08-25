@@ -1,0 +1,335 @@
+#+TITLE: The Alberta Advantage: Wealth-Backed Money Creation vs. Debt-Based Finance
+#+AUTHOR: Perry Kundert
+#+DATE: 2025-08-24
+#+DRAFT: true
+#+STARTUP: org-startup-with-inline-images inlineimages
+#+OPTIONS: toc:2 num:t
+#+OPTIONS: ^:nil # Disable sub/superscripting with bare _; _{...} still works
+#+OPTIONS: toc:nil
+
+#+LATEX_HEADER: \usepackage[margin=1.0in]{geometry}
+
+#+ATTR_LATEX: :width 10cm
+[[../images/dominion-logo.png]]
+
+* Executive Summary
+
+Alberta faces a critical juncture where transforming its monetary system from debt-based to
+wealth-backed money creation could eliminate over $20 billion in annual interest payments currently
+extracted from the provincial economy.  This paper examines the profound economic implications of
+enabling Albertans to create money by attesting their existing wealth rather than borrowing at
+interest, demonstrating how this shift would fundamentally improve household finances, business
+competitiveness, and provincial fiscal capacity.
+
+The analysis reveals that transitioning to wealth-backed money creation would reduce the effective
+cost of home ownership by over 40%, eliminate the interest burden that at times forces up to a third
+of Alberta farms to operate at a loss, and free up over $3 billion annually in provincial debt
+servicing for productive investment.
+
+These benefits flow from a simple principle: when money is created through wealth attestation rather
+than debt origination, the interest burden that currently transfers wealth from producers to
+financial intermediaries disappears, leaving that value in the hands of Alberta families and
+businesses.
+
+* Introduction: The Hidden Cost of Debt-Based Money
+
+Every dollar circulating in Alberta's economy originated as someone's debt to a bank.  When an
+Alberta family takes out a mortgage, the bank creates new money by typing numbers into an account,
+as Werner (2014) empirically demonstrated.  The family provides real collateral - their future home -
+and commits to decades of interest payments, while the bank risks /no/ existing assets and creates
+the loan principal from nothing through accounting entries.
+
+This system imposes a hidden tax on every economic transaction in Alberta.  The province's households
+currently carry $197 billion in mortgage debt and pay approximately $10 billion annually in mortgage
+interest alone. Alberta businesses shoulder an additional $203 billion in debt with corresponding
+interest obligations. Meanwhile, the provincial government itself pays $3.2 billion yearly servicing
+its $82.8 billion debt[fn:1]. Collectively, Albertans transfer over $23 billion annually to financial
+institutions simply for the privilege of using money that banks create costlessly through regulatory
+exemption.
+
+The alternative - wealth-backed money creation - would enable Albertans to monetize their existing
+assets without interest obligations. Instead of borrowing against a home and paying interest for 25
+years, a homeowner could attest the property's value, create Alberta Bucks equivalent to a portion
+of that value, and use those units for transactions while retaining full use of their property. The
+obligation would simply be to redeem the created units if selling the property, with no interest
+accumulation over time.
+
+* The Mechanics of Money Creation: Debt vs. Wealth
+
+Let's briefly address this claim that "Broad" money is created primarily by commercial bank lending.
+To quote the Bank of England's Money in the Modern Economy (2014): [fn:2]
+
+#+ATTR_LATEX: :width 7in :center t
+[[../images/boe-broad-money.png]]
+
+Most money circulating is indeed created through debt transactions at commercial banks.  But what
+does this really mean, in practice?
+
+** Current Debt-Based System
+
+Under the existing system, money creation follows a perverse logic that enriches financial
+intermediaries at the expense of productive economy participants. When an Alberta farmer needs
+$500,000 to purchase equipment, the lending bank performs the following operations:
+
+The bank creates a loan asset of $500,000 representing the farmer's promise to repay, and
+simultaneously creates a $500,000 deposit liability. No existing bank funds move or become
+unavailable. The bank's balance sheet expands by the stroke of a pen. The farmer, however, pledges
+real collateral - perhaps the farm itself - and commits to paying $68,000/yr 6% annual interest,
+totaling $180,000 over a 10-year term.
+
+The economic absurdity becomes clear when examining what each party contributes. The farmer provides
+genuine valuable consideration through collateral and productive labor to generate repayment
+capacity. The bank provides an accounting entry made possible solely by its regulatory exemption
+from Client Money Rules, as Werner (2014) documented. Yet the farmer pays $180,000 for this costless
+bank operation while risking losing the collateralized assets if unable to maintain payments.
+
+** Wealth-Backed Alternative
+
+Consider the same farmer under a wealth-backed system. The farmer owns $2 million in land,
+equipment, and stored grain. Through a wealth attestation process similar to current property
+assessment methods, these assets are verified and valued. The farmer can then create Alberta Bucks
+equivalent to 50% [fn:3] of the attested value - $1 million - while retaining full use and benefit of
+the assets.
+
+The critical difference emerges in the payment structure. Rather than paying interest to a bank, the
+farmer pays only insurance premiums to protect against asset loss; typically 0.5% to 1% annually for
+agricultural assets. On $500,000 in created money, this represents $2,500 to $5,000 yearly versus
+$30,000 in bank interest. The $25,000+ annual difference remains in the farm operation, funding
+expansion, equipment modernization, or household consumption.
+
+The balance sheet operations also differ fundamentally. The farmer's personal balance sheet shows an
+asset (the pledged wealth) and a liability (the obligation to redeem Alberta Bucks if selling the
+asset). The provincial monetary system shows the created Alberta Bucks backed by the attested
+wealth. No interest accumulates because no party provided funds that became unavailable - the money
+was created through wealth attestation, not borrowed from existing pools.
+
+* Household Impact: Transforming Home Ownership Economics
+
+** Mortgage Debt Transformation
+
+Alberta households currently carry $197 billion in mortgage debt, with the average mortgage standing
+at $380,000. Under conventional financing at current rates around 5.5%, a family pays approximately
+$21,000 annually in interest during the first years of their mortgage. Over a 25-year amortization,
+they will pay roughly $275,000 in interest on top of the $380,000 principal, meaning they effectively
+purchase their home 1.7 times.
+
+Under wealth-backed money creation, the same family could attest their home's value and create
+Alberta Bucks to purchase it outright. They would pay annual insurance costs of perhaps 0.2% (given
+the stability of residential real estate), or $760 yearly. The obligation would be to redeem the
+Alberta Bucks if selling the home, but no interest would accumulate during ownership. The family
+saves $20,000+ annually, funds that can support local consumption, education investment, or business
+formation.
+
+The macroeconomic implications multiply across Alberta's 580,000 mortgaged households. If even half
+transition to wealth-backed financing, the province retains $5.8 billion annually that currently
+flows to financial institutions. This money recirculates through local economies, supporting retail
+businesses, services, and employment rather than enriching distant shareholders.
+
+** Vehicle Financing Liberation
+
+Alberta households also carry approximately $12 billion in vehicle debt, paying roughly $600 million
+annually in auto loan interest. The average vehicle loan of $35,000 at 7% interest costs $2,450
+yearly in interest payments. Under wealth-backed creation, a family could attest their vehicle's
+value and create Alberta Bucks without interest obligations.
+
+The transformation becomes more powerful when considering that vehicles are depreciating
+assets. Under debt financing, families pay interest on a declining value; a form of double
+loss. Under wealth-backed creation, the obligation to redeem simply tracks the declining asset
+value, with no interest penalty compounding the depreciation impact. A family might pay $100
+annually in insurance premiums versus $2,450 in interest, freeing $2,350 yearly for productive uses.
+
+* Business Transformation: From Debt Servitude to Productive Investment
+
+** Agricultural Sector Liberation
+
+Alberta's agricultural sector demonstrates the crushing weight of debt-based finance most starkly.
+The province's farms carry $37.4 billion [fn:4] in debt, with average interest costs consuming a
+third [fn:5] of the $5.7 billion in Alberta's farm cash income.  Many operations exist primarily to
+service debt rather than generate prosperity for farming families and their communities.
+
+Consider a mid-sized grain operation with $3 million in land, $1 million in equipment, and typically
+$500,000 in stored grain inventory. Under current financing, this farm might carry $2 million in
+debt at 5% interest paying $100,000 annually to banks. In low commodity price years, this interest
+burden often exceeds operating profits, forcing farmers to borrow more simply to service existing
+debt; a vicious cycle that has driven countless families from agriculture.
+
+Under wealth-backed creation, the same farm could attest its $4.5 million in assets and create
+Alberta Bucks up to perhaps $2.25 million (at a conservative 50% ratio). Annual insurance costs
+might total $15,000 for the diversified asset base. The farm saves $85,000 yearly, transforming
+marginally viable operations into profitable enterprises. This difference enables equipment
+modernization, sustainable practice adoption, and succession planning that debt servicing currently
+prevents.
+
+The stored grain inventory presents particularly compelling opportunities. Farmers currently face a
+cruel choice: sell grain immediately after harvest when prices are lowest to service debt, or finance
+storage costs at interest while hoping for price improvement. With wealth-backed creation, farmers
+could attest stored grain value, create Alberta Bucks for immediate needs, and redeem those units
+when selling at optimal prices. This breaks the debt-driven cycle that forces farmers to accept
+unfavorable prices, improving both farm income and market price stability.
+
+** Small Business Renaissance
+
+Alberta's 170,000 small businesses collectively carry over $40 billion in debt, with interest costs
+representing a major barrier to growth and innovation. A typical small manufacturer with $2 million
+in equipment and $500,000 in inventory might pay $125,000 annually servicing debt; often exceeding
+the owner's salary.
+
+Under wealth-backed creation, the same business could attest its equipment and inventory, creating
+Alberta Bucks for working capital without interest obligations. Insurance costs of perhaps $10,000
+annually replace $125,000 in interest payments. The $115,000 difference funds hiring, research and
+development, or market expansion that debt servicing currently prevents.
+
+The transformative potential extends beyond cost savings. Currently, banks prefer lending against
+real estate rather than productive assets, forcing businesses to leverage personal homes for
+commercial credit. Wealth-backed creation values productive assets directly: manufacturing
+equipment, inventory, intellectual property; aligning capital creation with productive capacity
+rather than real estate speculation.
+
+* Provincial Fiscal Revolution
+
+** Eliminating Public Debt Servicing
+
+Alberta currently allocates $3.2 billion annually to debt servicing; funds extracted from public
+services and infrastructure investment. This represents $700 per Albertan [fn:6] yearly, or $2,800
+for a family of four, transferred to bondholders rather han invested in provincial development.
+
+Under wealth-backed creation, Alberta could monetize its vast public assets without debt
+obligations. The Heritage Savings Trust Fund's $30 billion value alone could back substantial
+Alberta Buck creation.  Crown lands valued at over $100 billion provide additional backing capacity.
+Resource royalty streams, worth $21 billion annually, offer further monetization potential without
+debt accumulation.
+
+The province could fund a decade-long infrastructure modernization program by creating Alberta Bucks
+backed by the very infrastructure being built. A $50 billion program for schools, hospitals, and
+renewable energy would typically cost $75 billion including interest over 20 years. Through
+wealth-backed creation, Alberta pays only the actual $50 billion construction cost plus modest
+insurance premiums, saving $25 billion that remains available for additional public investment.
+
+** Resource Revenue Optimization
+
+Alberta's resource wealth currently generates provincial revenue through royalties and taxes, but
+the full value potential remains uncaptured.  The province's revenue share of proven oil reserves,
+valued conservatively at $2 trillion, could back massive Alberta Buck creation for sovereign wealth
+fund expansion, economic diversification, and citizen dividends.
+
+Instead of borrowing against future resource revenues at interest, Alberta could create money backed
+by it's claim on proven reserves, invest those funds productively, and redeem the units as resources
+are extracted. This transforms resources from a depleting inheritance into a perpetual prosperity
+engine, as investment returns compound while redemption obligations remain fixed.
+
+* Implementation Urgency: The R&D Imperative
+
+Alberta must immediately initiate a comprehensive research and development program to prototype
+wealth-backed money creation systems. The technical foundation exists through distributed ledger
+technologies and established asset attestation methods, but integration and testing require
+dedicated resources and expertise.
+
+** Prototype Development Requirements
+
+The prototype system must demonstrate several critical capabilities. Asset attestation mechanisms
+must accurately value diverse wealth types from real estate to agricultural inventory while
+preventing fraud and double-pledging. The distributed ledger must process transactions at commercial
+speeds while maintaining security and auditability. Integration with existing payment systems must
+be seamless to encourage adoption. Regulatory frameworks must ensure compliance while preserving
+system benefits.
+
+A two-year, $10 million R&D program could deliver a function prototype supporting initial pilot
+programs. This investment would be recouped within /months/ through reduced debt servicing costs once
+operational. Delay, however, costs Alberta $23 billion annually in unnecessary interest
+payments: over $63 million /daily/ transferred from productive economy to financial intermediaries.
+
+Again: for /15% of the current *daily* cost paid to intermediaries/, Alberta could position itself
+to be /a global leader in wealth-backed stablecoin technology, implementation and adoption/.
+
+** Pilot Program Opportunities
+
+Strategic pilot implementations could demonstrate system viability while generating immediate
+benefits. Agricultural communities facing acute debt stress present /ideal/ initial deployment
+opportunities. A pilot program in a county like Vulcan or Stettler could enable farmers to attest
+grain inventories and equipment, creating Alberta Bucks for operational expenses while retaining
+assets for production.
+
+Small business districts in Calgary or Edmonton could pilot commercial applications, enabling
+businesses to monetize inventory and equipment for working capital without interest obligations. The
+immediate cash flow improvement would demonstrate benefits while identifying implementation
+refinements.
+
+Municipal governments could pilot infrastructure financing through wealth-backed Buck creation,
+funding community projects by attesting public assets rather than issuing interest-bearing bonds. A
+single $100 million municipal infrastructure program could save $50 million in interest costs over
+20 years, providing compelling evidence for provincial-scale adoption.
+
+Farmers could band together and raise the capital required to fund the novel wheat straw bio-fuel
+reformer project being proposed for central Alberta, instead of waiting for traditional capital
+formation.
+
+** Scaling to Provincial Implementation
+
+Following successful pilots, provincial implementation requires coordinated development across
+multiple fronts.  Legislative frameworks must establish asset attestation standards, insurance
+requirements, and redemption procedures. Technical infrastructure must scale to support millions of
+users and billions in transaction volume. Educational programs must help Albertans understand and
+utilize the new system effectively.
+
+The implementation timeline could achieve meaningful impact within five years. Year one focuses on
+R&D and prototype development. Year two implements agricultural and small business pilots. Year
+three expands to municipal government participation. Year four enables broad consumer adoption for
+mortgages and vehicle financing. Year five achieves full provincial integration including government
+finance transformation.
+
+With concerted effort and focus, however, I believe that Alberta could implement this project on a
+/much/ more rapid time frame.  The cryptographic and distributed system tools are now available to
+build a prototype that is usable by technically savvy, willing, private communities of
+crypto-friendly asset holders.  The legal frameworks exist to create private asset-backed tokens
+that represent attested wealth ownership, and the attestation guarantees, liens and other legal
+recourse required to implement the necessary insurance tools.
+
+Alberta can rise to this challenge, and summon the will, effort and finances to bring this project
+to rapid prototyping, testing and operation.  We Albertans don't feel, look or act like a lethargic,
+timid and fearful bureaucracy: we understand obstacles, set ambitious goals, and then /get things
+done./
+
+* Conclusion: Alberta's Historic Opportunity
+
+Alberta stands at a pivotal moment where technological capability, economic necessity, and political
+possibility converge to enable fundamental monetary reform. The province currently hemorrhages $23
+billion annually in interest payments that extract value without providing corresponding
+benefit. This represents the province's entire health care budget, or sufficient funds to eliminate
+provincial income tax while still having billions available for infrastructure investment.
+
+The transition from debt-based to wealth-backed money creation would transform every aspect of
+Alberta's economy. Families would retain thousands annually currently lost to mortgage and loan
+interest. Farmers would escape the debt trap that forces agricultural consolidation and rural
+depopulation. Businesses would access capital based on productive capacity rather than real estate
+collateral. Government would fund development through wealth attestation rather than debt
+accumulation.
+
+The technical mechanisms exist. The legal frameworks are achievable. The economic benefits are
+quantifiable and massive. What remains is the political will to challenge entrenched financial
+interests and implement systems serving Albertans rather than extracting from them.
+
+Every day of delay costs Alberta $63 million in unnecessary interest payments. Every year of
+inaction transfers $23 billion from productive economy to financial intermediaries. The government's
+responsibility to pursue ths transformation is not merely important: it is urgent, essential, and
+historically imperative. Alberta must act now to prototype, prove, and implement wealth-backed money
+creation, or condemn future generations to perpetual debt servitude when liberation lies within
+reach.
+
+The choice is stark: continue enriching distant financial institutions through interest payments on
+money they create from nothing, or enable Albertans to create money backed by their own real wealth
+while retaining value within provincial communities. The moral, economic, and practical arguments
+align /unequivocally/: Alberta must pioneer wealth-backed money creation to secure its economic
+sovereignty and prosperity.
+
+* Footnotes
+[fn:1] [[https://open.alberta.ca/dataset/5ebd05dc-d598-440b-9da2-25f37cd99a49/resource/43bccd72-36fa-41a4-becd-cb8c28da9683/download/budget-2025-fiscal-plan-2025-28.pdf][Alberta 2025-28 Fiscal Plan]] Alberta Budget 2025
+
+[fn:2] [[https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-in-the-modern-economy-an-introduction.pdf][Bank of England]] Money in the Modern Economy 2024, pp11
+
+[fn:3] [[https://docs.google.com/document/d/1ohJu7kxz3JlmJZE139iFJanzb5XNS5kEzT1H543Mabk/edit?tab=t.0#heading=h.rurq95welc3r][A dynamic Credit Factor 'K']] is computed which maintains a zero inflation rate.
+
+[fn:4] [[https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210005101][Farm Debt Outstanding, 2020-2024]]
+
+[fn:5] [[https://economicdashboard.alberta.ca/dashboard/farm-cash-receipts/][Alberta Farm Cash Receipts, Expenses 2024]]
+
+[fn:6] [[https://www.fraserinstitute.org/commentary/albertans-will-pay-their-governments-budget-deficits][Fraser Institute: Albertans will pay 2025]]
