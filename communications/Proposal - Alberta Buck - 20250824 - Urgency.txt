@@ -392,11 +392,6 @@
   in interest costs over 20 years, providing compelling evidence for
   provincial-scale adoption.
 
-  Farmers and local businesses around Vegreville could band together and
-  /raise the capital/ required to fund the novel Procectus [8] wheat
-  straw bio-fuel reformer project being proposed for central Alberta,
-  instead of awaiting traditional capital formation.
-
 
 7.3 Scaling to Provincial Implementation
 ────────────────────────────────────────
@@ -505,6 +500,3 @@ is computed which maintains a zero inflation rate.
 (<https://www.fraserinstitute.org/commentary/albertans-will-pay-their-governments-budget-deficits>)
 
 [7] [Visa Onchain Analytics] (<https://visaonchainanalytics.com/>)
-
-[8] [Provectus Biofuels Projects]
-(<https://provectusbiofuels.com/projects/>)

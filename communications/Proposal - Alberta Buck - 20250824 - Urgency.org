@@ -284,10 +284,6 @@ funding community projects by attesting public assets rather than issuing intere
 single $100 million municipal infrastructure program could save $50 million in interest costs over
 20 years, providing compelling evidence for provincial-scale adoption.
 
-Farmers and local businesses around Vegreville could band together and /raise the capital/ required
-to fund the novel Procectus [fn:8] wheat straw bio-fuel reformer project being proposed for central
-Alberta, instead of awaiting traditional capital formation.
-
 ** Scaling to Provincial Implementation
 
 Following successful pilots, provincial implementation requires coordinated development across
@@ -360,5 +356,3 @@ sovereignty and prosperity.
 [fn:6] [[https://www.fraserinstitute.org/commentary/albertans-will-pay-their-governments-budget-deficits][Fraser Institute: Albertans will pay 2025]]
 
 [fn:7] [[https://visaonchainanalytics.com/][Visa Onchain Analytics]]
-
-[fn:8] [[https://provectusbiofuels.com/projects/][Provectus Biofuels Projects]]
